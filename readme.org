@@ -24,6 +24,8 @@ TODO: May be include a 2 × 2 of the book distribution?
 
 * Probability
 
+TODO: Write an overview of the best books here, highlighting what might be good reads, even though it doesn‘t make it to the top suggestions.
+
 ** Overview of topics covered
 
 - Bayes Theorem
@@ -56,48 +58,6 @@ Benoit B. Mandelbrot, Richard L Hudson.
 An overview of the history would benefit by providing the motivation and original scenarios in which the concepts originated. They are also a good way for people looking to research into this area to understand some of the original strands and possible find a wealth of problems that are linked with the genesis of the ideas.
 
 https://www.cambridge.org/core/books/empire-of-chance/9DAF0E94CEB7D88FB8E2BD52460AC70F
-
-* Statistics
-
-* Introductory Works
-
-#+BEGIN_HTML
-
-<img width="300px" src="./img/the-lady-tasting-tea.jpg" alt="Cover image for The Lady Tasting the Tea />
-
-#+END_HTML
-
-** [[https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea][The Lady Tasting Tea]]
-David Salsburg
-April 1, 2001
-
-** [[The Art Of Statistics: Learning From Data]]
-
-** [[]]
-
-* Frequentist
-
-https://www.amazon.in/Probability-Expectation-Springer-Texts-Statistics/dp/0387989552
-https://www.amazon.in/Principles-Statistical-Inference-Professor-Cox/dp/0521685672
-https://www.amazon.in/All-Statistics-Statistical-Inference-Springer/dp/0387402721
-
-* Bayesian
-
-https://xcelab.net/rm/statistical-rethinking/
-http://www.stat.columbia.edu/~gelman/book/
-
-https://www.openintro.org/book/os/ (Free)
-
-Think Stats (Free): https://greenteapress.com/wp/think-stats-2e/
-
-An Introduction to Statistical Learning
-
-Less background than Elements of Statistical Learning
-http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
-
-https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
-
-https://www.amazon.in/Theory-Probability-introductory-treatment-Statistics/dp/1119286379
 
 * Logical / Visual
 
@@ -147,6 +107,48 @@ Probability and Statistics for Engineers and Scientists by Anthony Hayter
 http://www.amazon.com/Statistics-Learning-Presence-Variation-Wardrop/dp/0697215938
 The Probabilistic Method by Noga Alon and Joel H. Spencer.
 https://www.amazon.in/Natural-Introduction-Probability-Theory/dp/3764387238
+
+* Statistics
+
+* Introductory Works
+
+#+BEGIN_HTML
+
+<img width="300px" src="./img/the-lady-tasting-tea.jpg" alt="Cover image for The Lady Tasting the Tea />
+
+#+END_HTML
+
+** [[https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea][The Lady Tasting Tea]]
+David Salsburg
+April 1, 2001
+
+** [[The Art Of Statistics: Learning From Data]]
+
+** [[]]
+
+* Frequentist
+
+https://www.amazon.in/Probability-Expectation-Springer-Texts-Statistics/dp/0387989552
+https://www.amazon.in/Principles-Statistical-Inference-Professor-Cox/dp/0521685672
+https://www.amazon.in/All-Statistics-Statistical-Inference-Springer/dp/0387402721
+
+* Bayesian
+
+https://xcelab.net/rm/statistical-rethinking/
+http://www.stat.columbia.edu/~gelman/book/
+
+https://www.openintro.org/book/os/ (Free)
+
+Think Stats (Free): https://greenteapress.com/wp/think-stats-2e/
+
+An Introduction to Statistical Learning
+
+Less background than Elements of Statistical Learning
+http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
+
+https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
+
+https://www.amazon.in/Theory-Probability-introductory-treatment-Statistics/dp/1119286379
 
 * Additional Resources
 
