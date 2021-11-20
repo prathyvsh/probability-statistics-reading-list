@@ -133,6 +133,8 @@ https://www.amazon.in/Natural-Introduction-Probability-Theory/dp/3764387238
 
 ** [[https://amzn.to/30CNY8N][The Theory that would not Die – How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines and Emerged Triumphant from Two Centuries of Controversy]]
 
+[[./img/the-theory-that-would-not-die.jpg]]
+
 #+BEGIN_HTML
 <a href="https://amzn.to/30CNY8N"><img src="the-theory-that-would-not-die.jpg" width="300px" alt="Cover for The Theory that would not die" /></a>
 #+END_HTML
@@ -144,7 +146,8 @@ Sharon Bertsch McGrayne
 360 pages
 
 A talk based on this book is available here: https://www.youtube.com/watch?v=8oD6eBkjF9o
-[[the-theory-that-would-not-die-video.jpg]]
+
+[[./img/the-theory-that-would-not-die-video.jpg]]
 
 The book describes the contest between frequentist and Bayesian approaches. It has less mathematics and computation using the mathematical concepts and is rather narrative oriented about how the different ideas panned out.
 
