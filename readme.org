@@ -32,7 +32,7 @@ TODO: Write an overview of the best books here, highlighting what might be good 
 
 * Introductory Works
 
-These are the introductory works into the topic. The books here are popular introductory works into probability which doesn’t get down into the nitty gritty and as such reading these should be supplemented with more rigorous works. They are added here so that an interested reader who is totally new to this domain can build context and familiarize themselves with the central ideas of this field.
+These are the introductory works into the topic. The books here are popular introductory works into probability which doesn’t get down into the nitty gritty and as such reading these should be supplemented with more rigorous works. They are added here so that an interested reader who is totally new to this domain can build context and familiarize themselves with the central ideas of this field. This also includes some computational notebooks by Peter Norvig which could be of great help in trying to get hands dirty with the algorithms that one uses when trying to navigate the landscape of probability and statistics.
 
 ** [[https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up][Probability Theory: First Steps]]
 
@@ -55,7 +55,21 @@ An introduction to probability theory in popular language
 
 An introduction to probability emphasizing the history of the subject.
 
-** https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb
+** Peter Norvig Introductions to Probability
+
+There are some really well written computational notebooks by Peter Norvig elucidating the probabilty concepts.
+
+TODO: Add images for each of the Python notebooks
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb][A Concrete Introduction to Probability]]
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb][Probability, Paradox, and the Reasonable Person Principle]]
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilitySimulation.ipynb][Estimating Probabilities with Simulations]]
+
+---
+
+More of these can be found here: https://github.com/norvig/pytudes/
 
 * History
 
