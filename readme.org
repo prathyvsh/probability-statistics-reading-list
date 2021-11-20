@@ -32,7 +32,15 @@ TODO: Write an overview of the best books here, highlighting what might be good 
 
 * Introductory Works
 
-These are the introductory works into the topic
+These are the introductory works into the topic. The books here are popular introductory works into probability which doesn’t get down into the nitty gritty and as such reading these should be supplemented with more rigorous works. They are added here so that an interested reader who is totally new to this domain can build context and familiarize themselves with the central ideas of this field.
+
+** [[https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up][Probability Theory: First Steps]]
+
+#+BEGIN_HTML
+<a href="https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up"><img src="./img/probability-theory-first-steps.jpg" alt="Cover for Probability Theory: The First Steps" width="300px" /></a>
+#+END_HTML
+
+An introduction to probability theory in popular language
 
 ** [[https://amzn.to/3nyM3v1][Lady Luck]]
 
@@ -46,8 +54,6 @@ These are the introductory works into the topic
 400 pages
 
 An introduction to probability emphasizing the history of the subject.
-
-** https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up
 
 ** https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb
 
