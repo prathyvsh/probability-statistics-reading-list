@@ -34,11 +34,15 @@ TODO: Write an overview of the best books here, highlighting what might be good 
 
 These are the introductory works into the topic.
 
-** Lady Luck (1982)
-
-https://www.amazon.com/dp/048624342
+** [[https://amzn.to/3nyM3v1][Lady Luck]]
 
 Warren Weaver
+1982
+
+400 pages
+
+An introduction to probability emphasizing the history of the subject.
+
 
 ** [[The Theory that would not Die – How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines and Emerged Triumphant from Two Centuries of Controversy]]
 
