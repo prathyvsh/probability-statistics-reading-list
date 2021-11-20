@@ -114,17 +114,29 @@ https://www.amazon.in/Natural-Introduction-Probability-Theory/dp/3764387238
 
 #+BEGIN_HTML
 
-<img width="300px" src="./img/the-lady-tasting-tea.jpg" alt="Cover image for The Lady Tasting the Tea />
-
 #+END_HTML
 
 ** [[https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea][The Lady Tasting Tea]]
-David Salsburg
-April 1, 2001
+
+#+BEGIN_HTML
+
+<a href="https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea"><img width="300px" src="./img/the-lady-tasting-tea.jpg" alt="Cover image for The Lady Tasting the Tea" /></a>
+
+#+END_HTML
+
+
+*** David Salsburg
+
+- April 1, 2001
+- 352 pages
+
+#+BEGIN_HTML
+
+</a>
+
+#+END_HTML
 
 ** [[The Art Of Statistics: Learning From Data]]
-
-** [[]]
 
 * Frequentist
 
