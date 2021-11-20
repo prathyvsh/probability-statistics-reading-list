@@ -1,0 +1,137 @@
+* Probability and Statistics Reading List
+
+A compilation of books for learning probability and statistics from scratch.
+
+** Some notes
+
+This repository contains an analysis of the commonly recommended books for learning probability and statistics from around the web.
+
+One thing to keep in mind is that advanced mathematics in areas like analysis and measure theory might become more important as we delve deeper into topics. Or may be even before that since things are deeply intertwined all across math.
+
+I have tagged the resources that are free and also put the places where the resource was recommended from.
+
+** On the Categorization
+
+I have tried to categorize the books along three axes, two in probability and one in statistics.
+
+In probability, I have classified the books as following a symbolic vs. visual approach and one as following logical vs. empirical approach. By a symbolic vs. visual approach, I intend to cover those which take a rigorous algebraic approach vs. ones that lean in on geometric intuition. With logical vs. empirical approach, I intend to locate those books that have an inclination towards describing the underlying formal patterns as deriving from a rational understanding of the space vs. a more data oriented one where case studies from real world are presented and inferences are inducted from this space.
+
+For statistics, I have sticked with the traditional classification of frequentist vs. Bayesian.
+
+Even though, this is a simplistic division and fails to capture the actual complexity of concepts in probability and statistics, it is the best provisional axes I can supply to make sense of these fields. Once my comprehension of the landscape improves, I will try to adapt/revise them accordingly.
+
+TODO: May be include a 2 × 2 of the book distribution?
+
+** Overview of topics covered
+
+- Bayes Theorem
+
+* Introductory Works
+
+These are the introductory works into the topic.
+
+** Lady Tastes the Tea: https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea
+
+** Lady Luck (1982)
+
+https://www.amazon.com/dp/048624342
+
+Warren Weaver
+
+** https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up
+
+** https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb
+
+** Against the Gods
+Peter L. Bernstein
+
+** The (Mis)Behaviour of Markets
+
+Benoit B. Mandelbrot, Richard L Hudson.
+
+* History
+
+An overview of the history would benefit by providing the motivation and original scenarios in which the concepts originated. They are also a good way for people looking to research into this area to understand some of the original strands and possible find a wealth of problems that are linked with the genesis of the ideas.
+
+https://www.cambridge.org/core/books/empire-of-chance/9DAF0E94CEB7D88FB8E2BD52460AC70F
+
+* Statistics
+
+* Frequentist
+
+https://www.amazon.in/Probability-Expectation-Springer-Texts-Statistics/dp/0387989552
+https://www.amazon.in/Principles-Statistical-Inference-Professor-Cox/dp/0521685672
+https://www.amazon.in/All-Statistics-Statistical-Inference-Springer/dp/0387402721
+
+* Bayesian
+
+https://xcelab.net/rm/statistical-rethinking/
+http://www.stat.columbia.edu/~gelman/book/
+
+https://www.openintro.org/book/os/ (Free)
+
+Think Stats (Free): https://greenteapress.com/wp/think-stats-2e/
+
+An Introduction to Statistical Learning
+
+Less background than Elements of Statistical Learning
+http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
+
+https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
+
+https://www.amazon.in/Theory-Probability-introductory-treatment-Statistics/dp/1119286379
+
+* Logical / Visual
+
+E. T. Jaynes
+
+https://betanalpha.github.io/assets/case_studies/probability_theory.html
+
+http://setosa.io/conditional/
+
+https://www.amazon.com/dp/1523318678/
+
+https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up
+
+Bertsekas and Tsitsiklas, Introduction to Probability
+
+* Empirical
+
+Think Bayes: https://greenteapress.com/wp/think-bayes/ (Free)
+Casella and Berger: Typically used in many universities as the starting text.
+Ross
+Grinstead and Snell’s Introduction to Probability
+https://www.amazon.com/gp/product/1292025042
+Computer Age Statistical Inference: https://web.stanford.edu/~hastie/CASI/
+
+Judea Pearl
+
+* Visual
+
+Bayes Theorem: https://www.amazon.com/dp/1549761749
+Seeing Theory: 
+https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html
+
+* Symbolic
+
+* Videos
+https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
+
+* To check out:
+William Feller: https://www.amazon.in/Introduction-Probability-Theory-Applications-Statistics/dp/0471257087
+https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
+http://www.stat.columbia.edu/~gelman/arm/
+https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
+
+* Sampled but not included
+
+Probability and Statistics for Engineers and Scientists by Anthony Hayter
+http://www.amazon.com/Statistics-Learning-Presence-Variation-Wardrop/dp/0697215938
+The Probabilistic Method by Noga Alon and Joel H. Spencer.
+https://www.amazon.in/Natural-Introduction-Probability-Theory/dp/3764387238
+
+* Additional Resources
+
+If you want to have an Information Theory bend: http://www.inference.org.uk/itila/book.html
+
+http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
