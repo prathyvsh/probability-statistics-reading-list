@@ -36,8 +36,6 @@ These are the introductory works into the topic
 
 ** [[https://amzn.to/3nyM3v1][Lady Luck]]
 
-[[./img/lady-luck.jpg]]
-
 #+BEGIN_HTML
 <a href="https://amzn.to/3nyM3v1"><img width="300px" src="./img/lady-luck.jpg" alt="Cover image for Lady Luck" /></a>
 #+END_HTML
