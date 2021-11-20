@@ -118,10 +118,6 @@ https://www.amazon.in/Natural-Introduction-Probability-Theory/dp/3764387238
 
 * Introductory Works
 
-#+BEGIN_HTML
-
-#+END_HTML
-
 ** [[https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea][The Lady Tasting Tea]]
 
 #+BEGIN_HTML
@@ -135,7 +131,6 @@ https://www.amazon.in/Natural-Introduction-Probability-Theory/dp/3764387238
 - April 1, 2001
 - 352 pages
 
-#+BEGIN_HTML
 ** [[https://amzn.to/30CNY8N][The Theory that would not Die – How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines and Emerged Triumphant from Two Centuries of Controversy]]
 
 #+BEGIN_HTML
