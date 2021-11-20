@@ -7,7 +7,7 @@ A compilation of books for learning probability and statistics from scratch.
 This repository contains an analysis of the commonly recommended books for learning probability and statistics from around the web.
 
 One thing to keep in mind is that advanced mathematics in areas like analysis and measure theory might become more important as we delve deeper into topics. Or may be even before that since things are deeply intertwined all across math.
-
+img
 I have tagged the resources that are free and also put the places where the resource was recommended from.
 
 ** On the Categorization
@@ -22,6 +22,8 @@ Even though, this is a simplistic division and fails to capture the actual compl
 
 TODO: May be include a 2 × 2 of the book distribution?
 
+* Probability
+
 ** Overview of topics covered
 
 - Bayes Theorem
@@ -30,13 +32,13 @@ TODO: May be include a 2 × 2 of the book distribution?
 
 These are the introductory works into the topic.
 
-** Lady Tastes the Tea: https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea
-
 ** Lady Luck (1982)
 
 https://www.amazon.com/dp/048624342
 
 Warren Weaver
+
+** [[The Theory that would not Die – How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines and Emerged Triumphant from Two Centuries of Controversy]]
 
 ** https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up
 
@@ -56,6 +58,22 @@ An overview of the history would benefit by providing the motivation and origina
 https://www.cambridge.org/core/books/empire-of-chance/9DAF0E94CEB7D88FB8E2BD52460AC70F
 
 * Statistics
+
+* Introductory Works
+
+#+BEGIN_HTML
+
+<img width="300px" src="./img/the-lady-tasting-tea.jpg" alt="Cover image for The Lady Tasting the Tea />
+
+#+END_HTML
+
+** [[https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea][The Lady Tasting Tea]]
+David Salsburg
+April 1, 2001
+
+** [[The Art Of Statistics: Learning From Data]]
+
+** [[]]
 
 * Frequentist
 
