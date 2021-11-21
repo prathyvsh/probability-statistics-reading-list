@@ -91,6 +91,8 @@ https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up
 
 Bertsekas and Tsitsiklas, Introduction to Probability
 
+https://archive.org/details/GianCarlo_Rota_and_Kenneth_Baclawski__An_Introduction_to_Probability_and_Random_Processes/page/n1/mode/2up
+
 * Empirical
 
 Think Bayes: https://greenteapress.com/wp/think-bayes/ (Free)
@@ -118,6 +120,10 @@ William Feller: https://www.amazon.in/Introduction-Probability-Theory-Applicatio
 https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
 http://www.stat.columbia.edu/~gelman/arm/
 https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
+https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
+https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678/ref=sr_1_4?keywords=Probability+Theory+First+Steps&qid=1637448834&s=books&sr=1-4
+https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
+https://www.amazon.com/dp/0198572220
 
 * Sampled but not included
 
@@ -196,6 +202,18 @@ Peter L. Bernstein
 
 ** The (Mis)Behaviour of Markets
 Benoit B. Mandelbrot, Richard L Hudson
+
+** Rigorous works
+
+https://www.amazon.com/dp/039504636X
+https://www.amazon.com/gp/product/B00711B7AS
+https://www.amazon.com/Probability-Springer-Texts-Statistics-Pitman/dp/0387979743
+https://www.amazon.com/dp/0121741516
+https://www.amazon.com/dp/081764055X
+https://www.amazon.com/dp/038732903X
+https://www.amazon.com/dp/0521406056
+https://www.amazon.com/dp/0521765390
+https://www.amazon.com/dp/8189938401
 
 
 If you want to have an Information Theory bend: http://www.inference.org.uk/itila/book.html
