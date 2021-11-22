@@ -107,7 +107,19 @@ A Bayesian centric approach on interpreting probability as propositions about re
 
 This book was compiled from a posthumous manuscript by the editor Larry Bretthorst.
 
-https://www.amazon.com/dp/1523318678/
+** [[https://amzn.to/3r4Gd6G][Probability for an Enthusiastic Beginner]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3r4Gd6G"><img width="300px" src="./img/probability-for-the-enthusiastic-beginner.jpg" alt="Cover of Probability for the Enthusiastic Beginner" /></a>
+#+END_HTML
+
+David Morin
+
+2016
+
+371 pages
+
+A book that attempts to build on the intuition. Less of proving theorems rigorously and there is a combinatorial chapter in the beginning which for building a base in combinatorics.
 
 Bertsekas and Tsitsiklas, Introduction to Probability
 
