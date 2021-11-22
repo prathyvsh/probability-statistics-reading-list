@@ -6,8 +6,8 @@ A compilation of books for learning probability and statistics from scratch.
 
 This repository contains an analysis of the commonly recommended books for learning probability and statistics from around the web.
 
-One thing to keep in mind is that advanced mathematics in areas like analysis and measure theory might become more important as we delve deeper into topics. Or may be even before that since things are deeply intertwined all across math.
-img
+One thing to keep in mind is that advanced mathematics in areas like analysis and measure theory might become more important as we delve deeper into topics. Or may be even before that since things are deeply intertwined all across math. Some of the close adjacent areas to explore after this seems to be information theory, and statistical mechanics/thermodynamics as they can be seen commonly sprucing up in books addressing the topics of probability that I have examined here.
+
 I have tagged the resources that are free and also put the places where the resource was recommended from.
 
 ** On the Categorization
@@ -93,6 +93,34 @@ Judea Pearl
 
 * Logical / Visual
 
+** ** [[https://betanalpha.github.io/assets/case_studies/probability_theory.html][Probability Theory (for Scientists and Engineers)]]
+
+An online book that provides visual intuition into the ideas of probability along with a good ground work for the mathematical symbolic language that undergirds modern probability theory. The topics are touched upon in a rather cursory manner and might need the support of some other books to thoroughly unravel the underpinnings.
+
+* [[https://amzn.to/3l2Pp7X][Introduction to Probability]]
+
+Dimitri Bertsekas, John Tsitsiklis
+
+June 24, 2002
+
+430 pages
+
+When considering the dimensions between intuition and rigour, this book provides ample intuition to the ideas in probability. It is also supported by some good exercises to work through.
+
+** [[http://setosa.io/conditional/][Conditional Probability Explained Visually]]
+
+Victor Powell
+
+2014
+
+Blog post
+
+A neat visualization of conditional probability by Victor Powell
+
+* Logical / Symbolic
+
+These are roughly the works in probability with a symbolic bent or works in statistics with a frequentist approach.
+
 ** [[https://amzn.to/3nDXiCu][Probability Theory: The Logic of Science]]
 
 #+BEGIN_HTML
@@ -121,15 +149,11 @@ David Morin
 
 A book that attempts to build on the intuition. Less of proving theorems rigorously and there is a combinatorial chapter in the beginning which for building a base in combinatorics.
 
-Bertsekas and Tsitsiklas, Introduction to Probability
+** [[https://archive.org/details/GianCarlo_Rota_and_Kenneth_Baclawski__An_Introduction_to_Probability_and_Random_Processes/page/n1/mode/2up][An introduction to Probability and Random Processes]]
 
-https://betanalpha.github.io/assets/case_studies/probability_theory.html
+Gian-Carlo Rota, Kenneth Baclawski
 
-http://setosa.io/conditional/
-
-https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up
-
-https://archive.org/details/GianCarlo_Rota_and_Kenneth_Baclawski__An_Introduction_to_Probability_and_Random_Processes/page/n1/mode/2up
+An introduction to probability from combinatorialist Rota and data scientist Baclawski based on the lecture notes for the course at MIT. It goes from the elementary concepts of probability and statistics and has a thermodynamics/information theory bend towards the end.
 
 ** [[https://amzn.to/32eLr5o][Causal Inference: A Primer]]
 
@@ -145,12 +169,17 @@ Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
 
 Might be a nice book to start reading after The Book of Why to get into some of the nitty gritty on inference from data. There seems also to be a more rigorous work on Causality by Pearl in [[https://amzn.to/3CTFLux][Causality: Models, Reasoning, and Inference]]
 
-* Logical / Symbolic
-
-These are roughly the works in probability with a symbolic bent or works in statistics with a frequentist approach.
-
-
 * Empirical / Symbolic
+
+* [[https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up][The World is built on probability]]
+
+Lev Tarasov (Translated by Michael Burov)
+
+1984
+
+198 pages
+
+An introduction to the subject of probability motivated by examples from decision making, control theory, biology, and quantum mechanics. Was originally published in Russian and translated to English.
 
 Casella and Berger: Typically used in many universities as the starting text
 
@@ -189,8 +218,6 @@ https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
 https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678/ref=sr_1_4?keywords=Probability+Theory+First+Steps&qid=1637448834&s=books&sr=1-4
 https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
 https://www.amazon.com/dp/0198572220
-
-* Statistics
 
 * Introductory Works
 
@@ -293,6 +320,7 @@ http://www.amazon.com/Statistics-Learning-Presence-Variation-Wardrop/dp/06972159
 The Probabilistic Method by Noga Alon and Joel H. Spencer.
 https://www.amazon.in/Natural-Introduction-Probability-Theory/dp/3764387238
 
+https://www.amazon.com/Introduction-Statistics-Intuitive-Analyzing-Discoveries/dp/1735431109/
 
 If you want to have an Information Theory bend: http://www.inference.org.uk/itila/book.html
 
