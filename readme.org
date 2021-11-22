@@ -131,7 +131,7 @@ Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
 
 2016
 
-Might be a nice book to start reading after The Book of Why to get into some of the nitty gritty on inference from data. There seems also to be a more rigorous work on Causality by Pearl here: 
+Might be a nice book to start reading after The Book of Why to get into some of the nitty gritty on inference from data. There seems also to be a more rigorous work on Causality by Pearl in [[https://amzn.to/3CTFLux][Causality: Models, Reasoning, and Inference]]
 
 * Empirical
 
