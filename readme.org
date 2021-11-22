@@ -28,7 +28,7 @@ TODO: Write an overview of the best books here, highlighting what might be good 
 
 ** Overview of topics covered
 
-- Bayes Theorem
+TODO: Add in later by codifying the data on how different books treat different topics.
 
 * Introductory Works
 
@@ -133,7 +133,12 @@ Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
 
 Might be a nice book to start reading after The Book of Why to get into some of the nitty gritty on inference from data. There seems also to be a more rigorous work on Causality by Pearl in [[https://amzn.to/3CTFLux][Causality: Models, Reasoning, and Inference]]
 
-* Empirical
+* Logical / Symbolic
+
+These are roughly the works in probability with a symbolic bent or works in statistics with a frequentist approach.
+
+
+* Empirical / Symbolic
 
 Casella and Berger: Typically used in many universities as the starting text
 
@@ -147,13 +152,17 @@ Think Bayes: https://greenteapress.com/wp/think-bayes/ (Free)
 
 Computer Age Statistical Inference: https://web.stanford.edu/~hastie/CASI/
 
-* Visual
+* Empirical / Visual
+
+These are roughly the works with a Bayesian / Data centric bent which focusses on a visual approach.
 
 Bayes Theorem: https://www.amazon.com/dp/1549761749
 Seeing Theory: 
 https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html
 
-* Symbolic
+* Empirical / Symbolic
+
+These are roughly the works with a Bayesian / Data centric bent which focusses on a symbolic approach. The more rigorous works in studies can also be seen in this section as visual ideas haven’t matured to capture the rigorous nature of mathematical machinery employed to make sense of the ideas in this field.
 
 * Videos
 
@@ -244,7 +253,6 @@ August 18, 2020
 360 pages
 
 History of the subject with more of an academic bent. A general reader might find Ian Hacking’s work more approachable.
-
 
 * Additional Resources
 
