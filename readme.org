@@ -119,6 +119,20 @@ https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up
 
 https://archive.org/details/GianCarlo_Rota_and_Kenneth_Baclawski__An_Introduction_to_Probability_and_Random_Processes/page/n1/mode/2up
 
+** [[https://amzn.to/32eLr5o][Causal Inference: A Primer]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/32eLr5o"><img width="300px" src="./img/causal-inference-in-statistics-a-primer.jpg" alt="Cover of Causal Inference in Statistics A Primer" /></a>
+#+END_HTML
+
+Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
+
+160 pages
+
+2016
+
+Might be a nice book to start reading after The Book of Why to get into some of the nitty gritty on inference from data. There seems also to be a more rigorous work on Causality by Pearl here: 
+
 * Empirical
 
 Casella and Berger: Typically used in many universities as the starting text
