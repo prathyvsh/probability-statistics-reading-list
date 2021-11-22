@@ -75,7 +75,18 @@ More of these can be found here: https://github.com/norvig/pytudes/
 
 An overview of the history would benefit by providing the motivation and original scenarios in which the concepts originated. They are also a good way for people looking to research into this area to understand some of the original strands and possible find a wealth of problems that are linked with the genesis of the ideas.
 
-https://www.cambridge.org/core/books/empire-of-chance/9DAF0E94CEB7D88FB8E2BD52460AC70F
+** [[https://amzn.to/3FARmQM][The Empire of Chance: How Probability Changed Science and Everyday Life]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3FARmQM"><img width="300px" src="./img/the-empire-of-chance.jpg" alt="Cover of The Empire of Chance" /></a>
+#+END_HTML
+
+
+Gerd Gigerenzer, Zeno Swijtink, Theodore Porter, Lorraine Daston, John Beatty, Lorenz Krüger
+October 26, 1990
+360 pages
+
+History of modern statistics and its connections with other domains of knowledge.
 
 * Logical / Visual
 
@@ -171,6 +182,8 @@ The book describes the contest between frequentist and Bayesian approaches. It h
 
 ** [[The Art Of Statistics: Learning From Data]]
 
+** [[Naked Statistics]]
+
 * Frequentist
 
 https://www.amazon.in/Probability-Expectation-Springer-Texts-Statistics/dp/0387989552
@@ -194,6 +207,18 @@ http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
 https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
 
 https://www.amazon.in/Theory-Probability-introductory-treatment-Statistics/dp/1119286379
+
+* History
+
+** [[][Taming of Chance]]
+
+** [[https://amzn.to/30TNewk][The Rise of Statistical Thinking - 1820 – 1900 ]]
+Theodore M. Porter
+August 18, 2020
+360 pages
+
+History of the subject with more of an academic bent. A general reader might find Ian Hacking’s work more approachable.
+
 
 * Additional Resources
 
