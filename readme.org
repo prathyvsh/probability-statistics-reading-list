@@ -63,7 +63,7 @@ TODO: Add images for each of the Python notebooks
 
 *** [[https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb][A Concrete Introduction to Probability]]
 
-[[../img/a-concrete-introduction-to-probability.png]]
+[[./img/a-concrete-introduction-to-probability.png]]
 
 *** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb][Probability, Paradox, and the Reasonable Person Principle]]
 
@@ -101,6 +101,8 @@ Judea Pearl
 
 ** [[https://betanalpha.github.io/assets/case_studies/probability_theory.html][Probability Theory (for Scientists and Engineers)]]
 
+[[./img/probability-theory-for-scientists-and-engineers.png]]
+
 An online book that provides visual intuition into the ideas of probability along with a good ground work for the mathematical symbolic language that undergirds modern probability theory. The topics are touched upon in a rather cursory manner and might need the support of some other books to thoroughly unravel the underpinnings.
 
 ** [[https://amzn.to/3l2Pp7X][Introduction to Probability]]
@@ -118,6 +120,8 @@ June 24, 2002
 When considering the dimensions between intuition and rigour, this book provides ample intuition to the ideas in probability. It is also supported by some good exercises to work through.
 
 ** [[http://setosa.io/conditional/][Conditional Probability Explained Visually]]
+
+[[./img/conditional-probability-explained-visually.png]]
 
 Victor Powell
 
