@@ -63,9 +63,15 @@ TODO: Add images for each of the Python notebooks
 
 *** [[https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb][A Concrete Introduction to Probability]]
 
+[[../img/a-concrete-introduction-to-probability.png]]
+
 *** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb][Probability, Paradox, and the Reasonable Person Principle]]
 
+[[./img/probability-paradox-and-the-reasonable-person-principle.png]]
+
 *** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilitySimulation.ipynb][Estimating Probabilities with Simulations]]
+
+[[./img/estimating-probabilities-with-simulations.png]]
 
 ---
 
@@ -93,11 +99,15 @@ Judea Pearl
 
 * Logical / Visual
 
-** ** [[https://betanalpha.github.io/assets/case_studies/probability_theory.html][Probability Theory (for Scientists and Engineers)]]
+** [[https://betanalpha.github.io/assets/case_studies/probability_theory.html][Probability Theory (for Scientists and Engineers)]]
 
 An online book that provides visual intuition into the ideas of probability along with a good ground work for the mathematical symbolic language that undergirds modern probability theory. The topics are touched upon in a rather cursory manner and might need the support of some other books to thoroughly unravel the underpinnings.
 
-* [[https://amzn.to/3l2Pp7X][Introduction to Probability]]
+** [[https://amzn.to/3l2Pp7X][Introduction to Probability]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3FARmQM"><img width="300px" src="./img/introduction-to-probability.jpg" alt="Cover of Introduction to Probability" /></a>
+#+END_HTML
 
 Dimitri Bertsekas, John Tsitsiklis
 
