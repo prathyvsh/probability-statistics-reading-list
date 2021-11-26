@@ -103,7 +103,13 @@ Judea Pearl
 
 [[./img/probability-theory-for-scientists-and-engineers.png]]
 
+Michael Betancourt
+
+October 2018
+
 An online book that provides visual intuition into the ideas of probability along with a good ground work for the mathematical symbolic language that undergirds modern probability theory. The topics are touched upon in a rather cursory manner and might need the support of some other books to thoroughly unravel the underpinnings.
+
+There is also a follow up book from here under [[https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html][Probabilistic Modeling and Statistical Inference]]
 
 ** [[https://amzn.to/3l2Pp7X][Introduction to Probability]]
 
@@ -192,9 +198,8 @@ Might be a nice book to start reading after The Book of Why to get into some of 
 * [[https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up][The World is built on probability]]
 
 #+BEGIN_HTML
-<a href="https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up"><img width="300px" src="./img/the-world-is-built-on-probability.png" alt="Cover of An Introduction to Probability and Random Processes" /></a>
+<a href="https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up"><img width="300px" src="./img/the-world-is-built-on-probability.jpg" alt="Cover of The World is Built on Probability" /></a>
 #+END_HTML
-
 
 Lev Tarasov (Translated by Michael Burov)
 
@@ -204,25 +209,35 @@ Lev Tarasov (Translated by Michael Burov)
 
 An introduction to the subject of probability motivated by examples from decision making, control theory, biology, and quantum mechanics. Was originally published in Russian and translated to English.
 
-Casella and Berger: Typically used in many universities as the starting text
+** Statistical Inference
 
-Ross
+Casella and Berger
 
-Grinstead and Snell’s Introduction to Probability
+Typically used in many universities as the starting text. [[https://stats.stackexchange.com/questions/353138/casella-and-berger-vs-wasserman-to-acquire-a-good-statistics-foundation][Apparently]] more rigorous and more focused on technical details than All of Statistics.
+
+** Introduction to Probability and Statistics for Engineers and Scientists
+
+Sheldon Ross
+
+** Grinstead and Snell’s Introduction to Probability
+
+** Probability and Statistics
+
+Morris DeGroot, Mark Schervish
 
 https://www.amazon.com/gp/product/1292025042
 
-Think Bayes: https://greenteapress.com/wp/think-bayes/ (Free)
+** [[https://greenteapress.com/wp/think-bayes/][Think Bayes]]
 
-Computer Age Statistical Inference: https://web.stanford.edu/~hastie/CASI/
+** [[https://web.stanford.edu/~hastie/CASI/][Computer Age Statistical Inference]]
 
 * Empirical / Visual
 
 These are roughly the works with a Bayesian / Data centric bent which focusses on a visual approach.
 
-Bayes Theorem: https://www.amazon.com/dp/1549761749
-Seeing Theory: 
-https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html
+** Bayes Theorem: https://www.amazon.com/dp/1549761749
+
+** Seeing Theory
 
 * Empirical / Symbolic
 
@@ -233,14 +248,15 @@ These are roughly the works with a Bayesian / Data centric bent which focusses o
 https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 
 * To check out:
-William Feller: https://www.amazon.in/Introduction-Probability-Theory-Applications-Statistics/dp/0471257087
-https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
-http://www.stat.columbia.edu/~gelman/arm/
-https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
-https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
-https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678/ref=sr_1_4?keywords=Probability+Theory+First+Steps&qid=1637448834&s=books&sr=1-4
-https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
-https://www.amazon.com/dp/0198572220
+** William Feller: https://www.amazon.in/Introduction-Probability-Theory-Applications-Statistics/dp/0471257087
+** https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
+** http://www.stat.columbia.edu/~gelman/arm/
+** https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
+** https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
+** https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678/ref=sr_1_4?keywords=Probability+Theory+First+Steps&qid=1637448834&s=books&sr=1-4
+** https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
+** https://www.amazon.com/dp/0198572220
+** https://www.amazon.in/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573
 
 * Introductory Works
 
@@ -283,31 +299,32 @@ The book describes the contest between frequentist and Bayesian approaches. It h
 
 * Frequentist
 
-https://www.amazon.in/Probability-Expectation-Springer-Texts-Statistics/dp/0387989552
-https://www.amazon.in/Principles-Statistical-Inference-Professor-Cox/dp/0521685672
-https://www.amazon.in/All-Statistics-Statistical-Inference-Springer/dp/0387402721
+** https://www.amazon.in/Probability-Expectation-Springer-Texts-Statistics/dp/0387989552
+** https://www.amazon.in/Principles-Statistical-Inference-Professor-Cox/dp/0521685672
+** https://www.amazon.in/All-Statistics-Statistical-Inference-Springer/dp/0387402721
 
 * Bayesian
 
-https://xcelab.net/rm/statistical-rethinking/
-http://www.stat.columbia.edu/~gelman/book/
+** https://xcelab.net/rm/statistical-rethinking/
+** http://www.stat.columbia.edu/~gelman/book/
 
-https://www.openintro.org/book/os/ (Free)
+** https://www.openintro.org/book/os/ (Free)
 
-Think Stats (Free): https://greenteapress.com/wp/think-stats-2e/
+** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
 
-An Introduction to Statistical Learning
+** An Introduction to Statistical Learning
 
-Less background than Elements of Statistical Learning
-http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf
+Less background required than Elements of Statistical Learning
 
-https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
+** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
 
-https://www.amazon.in/Theory-Probability-introductory-treatment-Statistics/dp/1119286379
+** https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
+
+** https://www.amazon.in/Theory-Probability-introductory-treatment-Statistics/dp/1119286379
 
 * History
 
-** [[][Taming of Chance]]
+** [[Taming of Chance]]
 
 ** [[https://amzn.to/30TNewk][The Rise of Statistical Thinking - 1820 – 1900 ]]
 Theodore M. Porter
@@ -326,15 +343,15 @@ Benoit B. Mandelbrot, Richard L Hudson
 
 ** Rigorous works
 
-https://www.amazon.com/dp/039504636X
-https://www.amazon.com/gp/product/B00711B7AS
-https://www.amazon.com/Probability-Springer-Texts-Statistics-Pitman/dp/0387979743
-https://www.amazon.com/dp/0121741516
-https://www.amazon.com/dp/081764055X
-https://www.amazon.com/dp/038732903X
-https://www.amazon.com/dp/0521406056
-https://www.amazon.com/dp/0521765390
-https://www.amazon.com/dp/8189938401
+** https://www.amazon.com/dp/039504636X
+** https://www.amazon.com/gp/product/B00711B7AS
+** https://www.amazon.com/Probability-Springer-Texts-Statistics-Pitman/dp/0387979743
+** https://www.amazon.com/dp/0121741516
+** https://www.amazon.com/dp/081764055X
+** https://www.amazon.com/dp/038732903X
+** https://www.amazon.com/dp/0521406056
+** https://www.amazon.com/dp/0521765390
+** https://www.amazon.com/dp/8189938401
 
 * Sampled but not included
 
