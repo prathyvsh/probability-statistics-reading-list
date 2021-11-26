@@ -248,15 +248,29 @@ These are roughly the works with a Bayesian / Data centric bent which focusses o
 https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 
 * To check out:
-** William Feller: https://www.amazon.in/Introduction-Probability-Theory-Applications-Statistics/dp/0471257087
-** https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
-** http://www.stat.columbia.edu/~gelman/arm/
-** https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
-** https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
-** https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678/ref=sr_1_4?keywords=Probability+Theory+First+Steps&qid=1637448834&s=books&sr=1-4
-** https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
-** https://www.amazon.com/dp/0198572220
-** https://www.amazon.in/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573
+** [[An Introduction to Probability Theory and Its Applications]]
+https://www.amazon.in/Introduction-Probability-Theory-Applications-Statistics/dp/0471257087
+
+** Understanding Uncertainty
+https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
+
+** Data Analysis Using Regression and Multilevel/Hierarchical Analysis
+http://www.stat.columbia.edu/~gelman/arm/
+
+** Discrete Probability
+https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
+
+** Understanding Probability
+https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
+
+** Probability Theory: A Comprehensive Course
+https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
+
+** Probability and Random Processes:
+https://www.amazon.com/dp/0198572220
+
+** Introduction to Probability
+https://www.amazon.in/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573
 
 * Introductory Works
 
