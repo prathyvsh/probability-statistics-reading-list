@@ -165,6 +165,10 @@ A book that attempts to build on the intuition. Less of proving theorems rigorou
 
 ** [[https://archive.org/details/GianCarlo_Rota_and_Kenneth_Baclawski__An_Introduction_to_Probability_and_Random_Processes/page/n1/mode/2up][An introduction to Probability and Random Processes]]
 
+#+BEGIN_HTML
+<a href="https://archive.org/details/GianCarlo_Rota_and_Kenneth_Baclawski__An_Introduction_to_Probability_and_Random_Processes/page/n1/mode/2up"><img width="300px" src="./img/an-introduction-to-probability-and-random-processes.png" alt="Cover of An Introduction to Probability and Random Processes" /></a>
+#+END_HTML
+
 Gian-Carlo Rota, Kenneth Baclawski
 
 An introduction to probability from combinatorialist Rota and data scientist Baclawski based on the lecture notes for the course at MIT. It goes from the elementary concepts of probability and statistics and has a thermodynamics/information theory bend towards the end.
@@ -186,6 +190,11 @@ Might be a nice book to start reading after The Book of Why to get into some of 
 * Empirical / Symbolic
 
 * [[https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up][The World is built on probability]]
+
+#+BEGIN_HTML
+<a href="https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up"><img width="300px" src="./img/the-world-is-built-on-probability.png" alt="Cover of An Introduction to Probability and Random Processes" /></a>
+#+END_HTML
+
 
 Lev Tarasov (Translated by Michael Burov)
 
