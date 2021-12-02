@@ -209,17 +209,20 @@ Lev Tarasov (Translated by Michael Burov)
 
 An introduction to the subject of probability motivated by examples from decision making, control theory, biology, and quantum mechanics. Was originally published in Russian and translated to English.
 
-** Statistical Inference
+** [[https://amzn.to/3rykG6R][Statistical Inference]]
 
-Casella and Berger
+George Casella and Roger Berger
 
 Typically used in many universities as the starting text. [[https://stats.stackexchange.com/questions/353138/casella-and-berger-vs-wasserman-to-acquire-a-good-statistics-foundation][Apparently]] more rigorous and more focused on technical details than All of Statistics.
 
-** Introduction to Probability and Statistics for Engineers and Scientists
+** [[https://amzn.to/3xMEsw9][Introduction to Probability and Statistics for Engineers and Scientists]]
 
 Sheldon Ross
 
-** Grinstead and Snell’s Introduction to Probability
+First Edition: 1987, 6th Edition: 2021
+
+** [[https://amzn.to/3EgDHhy][Introduction to Probability]]
+Charles M. Grinstead, J. Laurie Snell
 
 ** Probability and Statistics
 
@@ -247,30 +250,6 @@ These are roughly the works with a Bayesian / Data centric bent which focusses o
 
 https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 
-* To check out:
-** [[An Introduction to Probability Theory and Its Applications]]
-https://www.amazon.in/Introduction-Probability-Theory-Applications-Statistics/dp/0471257087
-
-** Understanding Uncertainty
-https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
-
-** Data Analysis Using Regression and Multilevel/Hierarchical Analysis
-http://www.stat.columbia.edu/~gelman/arm/
-
-** Discrete Probability
-https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
-
-** Understanding Probability
-https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
-
-** Probability Theory: A Comprehensive Course
-https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
-
-** Probability and Random Processes:
-https://www.amazon.com/dp/0198572220
-
-** Introduction to Probability
-https://www.amazon.in/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573
 
 * Introductory Works
 
@@ -347,13 +326,31 @@ August 18, 2020
 
 History of the subject with more of an academic bent. A general reader might find Ian Hacking’s work more approachable.
 
-* Additional Resources
+* To check out:
+** [[https://amzn.to/31lXjlA][An Introduction to Probability Theory and Its Applications]]
+William Feller
 
-** Against the Gods
-Peter L. Bernstein
 
-** The (Mis)Behaviour of Markets
-Benoit B. Mandelbrot, Richard L Hudson
+** Understanding Uncertainty
+https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
+
+** Data Analysis Using Regression and Multilevel/Hierarchical Analysis
+http://www.stat.columbia.edu/~gelman/arm/
+
+** Discrete Probability
+https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
+
+** Understanding Probability
+https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
+
+** Probability Theory: A Comprehensive Course
+https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
+
+** Probability and Random Processes:
+https://www.amazon.com/dp/0198572220
+
+** Introduction to Probability
+https://www.amazon.in/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573
 
 ** Rigorous works
 
@@ -366,6 +363,14 @@ Benoit B. Mandelbrot, Richard L Hudson
 ** https://www.amazon.com/dp/0521406056
 ** https://www.amazon.com/dp/0521765390
 ** https://www.amazon.com/dp/8189938401
+
+* Additional Resources
+
+** Against the Gods
+Peter L. Bernstein
+
+** The (Mis)Behaviour of Markets
+Benoit B. Mandelbrot, Richard L Hudson
 
 * Sampled but not included
 
