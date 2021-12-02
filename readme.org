@@ -391,8 +391,23 @@ Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
 
 ** Rigorous works
 
-** https://www.amazon.com/dp/039504636X
-** https://www.amazon.com/gp/product/B00711B7AS
+** [[https://amzn.to/3Ekhsay][Introduction to Probability Theory]]
+
+Paul G. Hoel, Sidney C. Port, Charles J. Stone
+
+1972
+
+They also have a similar book on [[https://amzn.to/3ohkRBp][Statistical Theory]].
+
+A rigorous introduction to probability theory. It has been likened to Rudin’s book on mathematical analysis.
+
+** [[https://amzn.to/3xMzJuB][Probability and Measure]]
+Patrick Billingsley
+
+2012
+
+A self-contained book on probability and commonly recommended as a rigorous introduction to the subject.
+
 ** https://www.amazon.com/Probability-Springer-Texts-Statistics-Pitman/dp/0387979743
 ** https://www.amazon.com/dp/0121741516
 ** https://www.amazon.com/dp/081764055X
