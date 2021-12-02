@@ -12,13 +12,14 @@ I have tagged the resources that are free and also put the places where the reso
 
 ** On the Categorization
 
-I have tried to categorize the books along three axes, two in probability and one in statistics.
+I have tried to categorize the books along 2 axes, { logical, empirical } × { visual, symbolic }.
 
-In probability, I have classified the books as following a symbolic vs. visual approach and one as following logical vs. empirical approach. By a symbolic vs. visual approach, I intend to cover those which take a rigorous algebraic approach vs. ones that lean in on geometric intuition. With logical vs. empirical approach, I intend to locate those books that have an inclination towards describing the underlying formal patterns as deriving from a rational understanding of the space vs. a more data oriented one where case studies from real world are presented and inferences are inducted from this space.
 
-For statistics, I have sticked with the traditional classification of frequentist vs. Bayesian.
+By a symbolic vs. visual approach, I intend to cover those which take a rigorous algebraic approach vs. ones that lean in on geometric/structural intuition of the concepts at play. These are not mutually exclusive categories and books are situated in a spectrum. With logical vs. empirical approach, I intend to locate those books that have an inclination towards describing the underlying formal patterns as deriving from a rational understanding of the space vs. a more data oriented one where case studies from real world are presented and inferences are inducted from this space.  Whenever there was an inclination towards either poles, I have done a rounding off and put it off to align with one of the poles. So even when reading a book classified as say, logical/visual, there is good chance that it will have a good amount of symbolic knowledge to teach you. 
 
-Even though, this is a simplistic division and fails to capture the actual complexity of concepts in probability and statistics, it is the best provisional axes I can supply to make sense of these fields. Once my comprehension of the landscape improves, I will try to adapt/revise them accordingly.
+For statistics, I have tried to mention whether the books take a frequentist or Bayesian approach with the same caveat of mutual inclusion of ideas as above.
+
+Even though, this is a simplistic division and fails to capture the actual complexity of concepts in probability and statistics, it is the best provisional axes I could supply to make sense of these fields. Once my comprehension of the landscape improves, I will try to adapt/revise the bases to have better span and decomposition properties accordingly.
 
 TODO: May be include a 2 × 2 of the book distribution?
 
@@ -291,6 +292,14 @@ David Spiegelhalter
 ** [[https://amzn.to/3rrdZmU][Naked Statistics]]
 Charles Wheelan
 
+** [[https://amzn.to/3ofHSo1][Understanding Uncertainty]]
+
+Dennis V. Lindley
+
+11th Edition (2006)
+
+An introductory book that gives a conceptual grounding for the ideas in probability and statistics.
+
 * Frequentist
 
 ** [[https://amzn.to/3DcVxAD][Probability via Expectation]]
@@ -302,7 +311,12 @@ David R. Cox
 ** [[https://amzn.to/3xM0Qpq][All of Statistics: A Course in Statistical Inference]]
 Larry Wasserman
 
-* Bayesian
+* Empiric/Symbolic
+
+** [[https://amzn.to/3dbmvOw][Theory of Probability: A Critical Introductory Treatment]]
+Bruno de Finetti
+
+A Bayesian approach on probability as accounting for consequences of decisions made.
 
 ** [[https://amzn.to/3G4KwmM][Statistical Rethinking: With examples in R and STAN]]
 
@@ -318,13 +332,22 @@ Larry Wasserman
 
 Less background required than Elements of Statistical Learning
 
-** https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
+** [[https://amzn.to/3dcA8ge][Statistics]]
+David Freedman, Robert Pisani, Roger Purves
 
-** https://www.amazon.in/Theory-Probability-introductory-treatment-Statistics/dp/1119286379
+4th Edition (2007)
+
+A book directed towards people with minimal mathematics exposure. The organization of the book in helping build the intuition gradually is remarked by people have read it.
 
 * History
 
-** [[Taming of Chance]]
+** [[https://amzn.to/3FZZaf8][Taming of Chance]]
+
+Ian Hacking
+
+1990
+
+A standard recommendation to learn about the origins of probability ad statistics. This book, along with [[https://amzn.to/3dalnuF][The Emergence of Probability]] by Hacking, which has a more philosophical bent, might serve as a decent bundle for exposure to the historical details on how probability took shape as a science.
 
 ** [[https://amzn.to/30TNewk][The Rise of Statistical Thinking - 1820 – 1900]]
 Theodore M. Porter
@@ -337,27 +360,32 @@ History of the subject with more of an academic bent. A general reader might fin
 ** [[https://amzn.to/31lXjlA][An Introduction to Probability Theory and Its Applications]]
 William Feller
 
+** [[https://amzn.to/3IdxLIs][Data Analysis Using Regression and Multilevel/Hierarchical Analysis]]
 
-** Understanding Uncertainty
-https://www.amazon.in/Understanding-Uncertainty-Dennis-V-Lindley/dp/0470043830
+Andrew Gelman, Jennifer Hill
 
-** Data Analysis Using Regression and Multilevel/Hierarchical Analysis
-http://www.stat.columbia.edu/~gelman/arm/
+2006
 
-** Discrete Probability
-https://www.amazon.in/Discrete-Probability-Undergraduate-Texts-Mathematics-ebook/dp/B001PII2EC
+** [[https://amzn.to/3dbBGar][Discrete Probability]]
 
-** Understanding Probability
-https://www.amazon.in/Understanding-Probability-Henk-Tijms/dp/110765856X
+Hugh Gordon
 
-** Probability Theory: A Comprehensive Course
-https://www.amazon.com/Probability-Theory-Comprehensive-Course-Universitext-ebook/dp/B00DZ0NM66
+2012
 
-** Probability and Random Processes:
-https://www.amazon.com/dp/0198572220
+A book explaining discrete probability in an accessible language.
 
-** Introduction to Probability
-https://www.amazon.in/Introduction-Probability-Chapman-Statistical-Science/dp/1466575573
+** [[https://amzn.to/31oVpAI][Understanding Probability]]
+
+Henk Tijms
+
+2012
+
+** [[https://probabilitybook.net][Introduction to Probability]]
+Joseph K. Blitzstein, Jessica Hwang
+
+[[https://amzn.to/3pjo16N][1st Edition: 2014]], 2nd Edition: 2019
+
+Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
 
 ** Rigorous works
 
@@ -369,7 +397,18 @@ https://www.amazon.in/Introduction-Probability-Chapman-Statistical-Science/dp/14
 ** https://www.amazon.com/dp/038732903X
 ** https://www.amazon.com/dp/0521406056
 ** https://www.amazon.com/dp/0521765390
+** https://www.amazon.com/Foundations-Statistics-Leonard-J-Savage/dp/0486623491/
 ** https://www.amazon.com/dp/8189938401
+
+** [[https://amzn.to/3ddOXPL][Probability Theory: A Comprehensive Course]]
+Achim Klenke
+
+Recommended as a reference book on probability
+
+** [[https://amzn.to/3DoL4Cs][Probability and Random Processes]]
+Geoffrey R. Grimmett, David R. Stirzaker
+
+Considered a standard reference to the subject
 
 * Additional Resources
 
@@ -380,6 +419,10 @@ Peter L. Bernstein
 Benoit B. Mandelbrot, Richard L Hudson
 
 * Sampled but not included
+
+** [[https://amzn.to/3luibyC][Mastering Metrics]]
+
+The book has an econometric viewpoint towards how to infer cause and effect using statistics.
 
 Probability and Statistics for Engineers and Scientists by Anthony Hayter
 http://www.amazon.com/Statistics-Learning-Presence-Variation-Wardrop/dp/0697215938
