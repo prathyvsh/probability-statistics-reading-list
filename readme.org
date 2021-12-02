@@ -222,13 +222,12 @@ Sheldon Ross
 First Edition: 1987, 6th Edition: 2021
 
 ** [[https://amzn.to/3EgDHhy][Introduction to Probability]]
+
 Charles M. Grinstead, J. Laurie Snell
 
-** Probability and Statistics
+** [[https://amzn.to/3odDsOI][Probability and Statistics]]
 
 Morris DeGroot, Mark Schervish
-
-https://www.amazon.com/gp/product/1292025042
 
 ** [[https://greenteapress.com/wp/think-bayes/][Think Bayes]]
 
@@ -238,9 +237,10 @@ https://www.amazon.com/gp/product/1292025042
 
 These are roughly the works with a Bayesian / Data centric bent which focusses on a visual approach.
 
-** Bayes Theorem: https://www.amazon.com/dp/1549761749
+** [[https://amzn.to/3Edl51Q][Bayes Theorem: A Visual Introduction for Beginners]]
+Dan Morris
 
-** Seeing Theory
+** [[https://seeing-theory.brown.edu/index.html][Seeing Theory]]
 
 * Empirical / Symbolic
 
@@ -249,7 +249,6 @@ These are roughly the works with a Bayesian / Data centric bent which focusses o
 * Videos
 
 https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
-
 
 * Introductory Works
 
@@ -286,9 +285,11 @@ A talk based on this book is available here: https://www.youtube.com/watch?v=8oD
 
 The book describes the contest between frequentist and Bayesian approaches. It has less mathematics and computation using the mathematical concepts and is rather narrative oriented about how the different ideas panned out.
 
-** [[The Art Of Statistics: Learning From Data]]
+** [[https://amzn.to/31od7UW][The Art Of Statistics: How to Learn from Data]]
+David Spiegelhalter
 
-** [[Naked Statistics]]
+** [[https://amzn.to/3rrdZmU][Naked Statistics]]
+Charles Wheelan
 
 * Frequentist
 
@@ -303,18 +304,19 @@ Larry Wasserman
 
 * Bayesian
 
-** https://xcelab.net/rm/statistical-rethinking/
-** http://www.stat.columbia.edu/~gelman/book/
+** [[https://amzn.to/3G4KwmM][Statistical Rethinking: With examples in R and STAN]]
 
-** https://www.openintro.org/book/os/ (Free)
+** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
+
+** [[https://www.openintro.org/book/os/][OpenIntro Statistics]]
 
 ** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
 
-** An Introduction to Statistical Learning
+** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
+
+** [[https://amzn.to/2ZNwbeZ][An Introduction to Statistical Learning: With Applications in R]]
 
 Less background required than Elements of Statistical Learning
-
-** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
 
 ** https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
 
@@ -324,7 +326,7 @@ Less background required than Elements of Statistical Learning
 
 ** [[Taming of Chance]]
 
-** [[https://amzn.to/30TNewk][The Rise of Statistical Thinking - 1820 – 1900 ]]
+** [[https://amzn.to/30TNewk][The Rise of Statistical Thinking - 1820 – 1900]]
 Theodore M. Porter
 August 18, 2020
 360 pages
