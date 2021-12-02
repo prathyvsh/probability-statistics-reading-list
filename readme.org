@@ -12,7 +12,9 @@ I have tagged the resources that are free and also put the places where the reso
 
 ** On the Categorization
 
-I have tried to categorize the books along 2 axes, { logical, empirical } × { visual, symbolic }.
+The books have been organized into 3 sections, that are ordered as: Introductory → Elementary → Rigorous. The various books I have sampled are categorized into these three sections and within these sections, the books are unordered, which means, I don’t recommend any sequence of reading them inside these broader categories.
+
+Within the Elementary section, I have tried to categorize the books along 2 axes, { logical, empirical } × { visual, symbolic }.
 
 
 By a symbolic vs. visual approach, I intend to cover those which take a rigorous algebraic approach vs. ones that lean in on geometric/structural intuition of the concepts at play. These are not mutually exclusive categories and books are situated in a spectrum. With logical vs. empirical approach, I intend to locate those books that have an inclination towards describing the underlying formal patterns as deriving from a rational understanding of the space vs. a more data oriented one where case studies from real world are presented and inferences are inducted from this space.  Whenever there was an inclination towards either poles, I have done a rounding off and put it off to align with one of the poles. So even when reading a book classified as say, logical/visual, there is good chance that it will have a good amount of symbolic knowledge to teach you. 
