@@ -292,9 +292,14 @@ The book describes the contest between frequentist and Bayesian approaches. It h
 
 * Frequentist
 
-** https://www.amazon.in/Probability-Expectation-Springer-Texts-Statistics/dp/0387989552
-** https://www.amazon.in/Principles-Statistical-Inference-Professor-Cox/dp/0521685672
-** https://www.amazon.in/All-Statistics-Statistical-Inference-Springer/dp/0387402721
+** [[https://amzn.to/3DcVxAD][Probability via Expectation]]
+Peter Whittle
+
+** [[https://amzn.to/3dc5i7y][Principles of Statistical Inference]]
+David R. Cox
+
+** [[https://amzn.to/3xM0Qpq][All of Statistics: A Course in Statistical Inference]]
+Larry Wasserman
 
 * Bayesian
 
