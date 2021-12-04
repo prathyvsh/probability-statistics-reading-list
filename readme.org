@@ -26,6 +26,8 @@ Even though, this is a simplistic division and fails to capture the actual compl
 
 TODO: May be include a 2 × 2 of the book distribution?
 
+TODO: After listing this out, I have felt that may be a better categorization would be { conceptual, computational } × { probability, statistics }. This would have the books that give a conceptual grounding primarily vs. one that has a lot of exercises to solve which would help the reader arrive at an understanding for the relations at play. Try to do this after you put up the concept lattice for the chapters in the second or third pass.
+
 * Index
 
 |                              Introductory                              |
@@ -34,8 +36,8 @@ TODO: May be include a 2 × 2 of the book distribution?
 | [[#lady-luck][Lady Luck]]                                            |
 | [[#the-lady-tasting-tea][The Lady Tasting Tea]]                      |
 | [[#the-theory-that-would-not-die][The Theory that Would not Die]]    |
-| [[#the-art-of-statistics][The Art of Statistics]]                    |
-| [[#naked-statistics][Naked Statistics]]                              |
+| [[#the-art-of-statistics][The Art of Statistics*]]                    |
+| [[#naked-statistics][Naked Statistics*]]                              |
 |             |
 
 
@@ -44,6 +46,12 @@ TODO: May be include a 2 × 2 of the book distribution?
 |--------------------------------+-----------------------------------+----------------------------------+------------------------------------|
 | | | | [[./#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] |
 | | | | [[./#understanding-uncertainty][Understanding Uncertainty]] |
+
+| Rigorous works        |
+
+
+| Additional reads |
+
 
 
 * Probability
@@ -353,6 +361,7 @@ https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 ** [[https://amzn.to/3DcVxAD][Probability via Expectation]]
 Peter Whittle
 
+
 ** [[https://amzn.to/3dc5i7y][Principles of Statistical Inference]]
 David R. Cox
 
@@ -426,14 +435,29 @@ Patrick Billingsley
 
 A self-contained book on probability and commonly recommended as a rigorous introduction to the subject.
 
-** https://www.amazon.com/Probability-Springer-Texts-Statistics-Pitman/dp/0387979743
-** https://www.amazon.com/dp/0121741516
-** https://www.amazon.com/dp/081764055X
-** https://www.amazon.com/dp/038732903X
-** https://www.amazon.com/dp/0521406056
-** https://www.amazon.com/dp/0521765390
-** https://www.amazon.com/Foundations-Statistics-Leonard-J-Savage/dp/0486623491/
-** https://www.amazon.com/dp/8189938401
+** [[https://amzn.to/3dpIukI][Probability]]
+Jim Pitman
+
+** [[https://amzn.to/31qCpSM][A Course in Probability Theory]]
+Kai Lai Chung
+
+** [[https://amzn.to/3xUJYNw][A Probability Path]]
+Sidney Resnick
+
+** [[https://amzn.to/3lDbFFB][Measure Theory and Probability Theory]]
+Krishna B. Athreya, Soumendra N. Lahiri
+
+** [[https://amzn.to/3oq7A9M][Probability with Martingales]]
+David Williams
+
+** [[https://amzn.to/3ooj5yr][Probability: Theory and Examples]]
+Rick Durrett
+
+** [[https://amzn.to/3okKzF4][The Foundations of Statistics]]
+Leonard J. Savage
+
+** [[https://amzn.to/3EpJ7qF][Probability Theory and Stochastic Processes With Applications]]
+Oliver Knill
 
 ** [[https://amzn.to/3ddOXPL][Probability Theory: A Comprehensive Course]]
 Achim Klenke
@@ -447,25 +471,36 @@ Considered a standard reference to the subject
 
 * Additional Resources
 
-** Against the Gods
+** [[https://amzn.to/3xTAWAl][Against the Gods]]
 Peter L. Bernstein
+1998
 
-** The (Mis)Behaviour of Markets
+** [[https://amzn.to/3IoaOlO][The (Mis)Behaviour of Markets]]
 Benoit B. Mandelbrot, Richard L Hudson
 
-* Sampled but not included
+** [[http://www.inference.org.uk/itila/book.html][Information Theory, Inference, and Learning Algorithms]]
+David MacKay
+If you want to have an Information Theory bend
+
+** [[http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/][Advanced Data Analysis from an Elementary Point of View]]
+Cosma Rohilla Chalizi
+
+* Sampled but not included / need another pass
 
 ** [[https://amzn.to/3luibyC][Mastering Metrics]]
 
 The book has an econometric viewpoint towards how to infer cause and effect using statistics.
 
-Probability and Statistics for Engineers and Scientists by Anthony Hayter
-http://www.amazon.com/Statistics-Learning-Presence-Variation-Wardrop/dp/0697215938
-The Probabilistic Method by Noga Alon and Joel H. Spencer.
-https://www.amazon.in/Natural-Introduction-Probability-Theory/dp/3764387238
+** [[https://amzn.to/3Dkbkxv][Probability and Statistics for Engineers and Scientists]]
+Anthony Hayter
 
-https://www.amazon.com/Introduction-Statistics-Intuitive-Analyzing-Discoveries/dp/1735431109/
+** [[https://amzn.to/3EoYXBG][The Probabilistic Method]]
+Noga Alon and Joel H. Spencer
 
-If you want to have an Information Theory bend: http://www.inference.org.uk/itila/book.html
+** [[https://amzn.to/3rDq6xg][Statistics: Learning in the presence of variation]]
+Robert L. Waldrop
 
-http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
+** [[https://amzn.to/3GdZx5L][A Natural Introduction to Probability]]
+
+* [[https://amzn.to/3dlEKAW][Introduction to Statistics]]
+Jim Frost
