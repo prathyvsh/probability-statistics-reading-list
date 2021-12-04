@@ -14,8 +14,9 @@ I have tagged the resources that are free and also put the places where the reso
 
 The books have been organized into 3 sections, that are ordered as: Introductory → Elementary → Rigorous. The various books I have sampled are categorized into these three sections and within these sections, the books are unordered, which means, I don’t recommend any sequence of reading them inside these broader categories.
 
-Within the Elementary section, I have tried to categorize the books along 2 axes, { logical, empirical } × { visual, symbolic }.
+Apart from these, as adjuncts, I have also added some history books and topics that are adjacent to probability and statistics one might enjoy learning.
 
+Within the Elementary section, I have tried to categorize the books along 2 axes, { logical, empirical } × { visual, symbolic }.
 
 By a symbolic vs. visual approach, I intend to cover those which take a rigorous algebraic approach vs. ones that lean in on geometric/structural intuition of the concepts at play. These are not mutually exclusive categories and books are situated in a spectrum. With logical vs. empirical approach, I intend to locate those books that have an inclination towards describing the underlying formal patterns as deriving from a rational understanding of the space vs. a more data oriented one where case studies from real world are presented and inferences are inducted from this space.  Whenever there was an inclination towards either poles, I have done a rounding off and put it off to align with one of the poles. So even when reading a book classified as say, logical/visual, there is good chance that it will have a good amount of symbolic knowledge to teach you. 
 
@@ -24,6 +25,26 @@ For statistics, I have tried to mention whether the books take a frequentist or 
 Even though, this is a simplistic division and fails to capture the actual complexity of concepts in probability and statistics, it is the best provisional axes I could supply to make sense of these fields. Once my comprehension of the landscape improves, I will try to adapt/revise the bases to have better span and decomposition properties accordingly.
 
 TODO: May be include a 2 × 2 of the book distribution?
+
+* Index
+
+|                              Introductory                              |
+|------------------------------------------------------------------------|
+| [[./#probability-theory-first-steps][Probability Theory: First Steps]] |
+| [[./#lady-luck][Lady Luck]]                                            |
+| [[./#the-lady-tasting-tea][The Lady Tasting Tea]]                      |
+| [[./#the-theory-that-would-not-die][The Theory that Would not Die]]    |
+| [[./#the-art-of-statistics][The Art of Statistics]]                    |
+| [[./#naked-statistics][Naked Statistics]]                              |
+|             |
+
+
+
+|         Logical/Visual         |         Logical/Symbolic          |         Empirical/Visual         |         Empirical/Symbolic         |
+|--------------------------------+-----------------------------------+----------------------------------+------------------------------------|
+| | | | [[./#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] |
+| | | | [[./#understanding-uncertainty][Understanding Uncertainty]] |
+
 
 * Probability
 
@@ -58,27 +79,47 @@ An introduction to probability theory in popular language
 
 An introduction to probability emphasizing the history of the subject.
 
-** Peter Norvig Introductions to Probability
+** [[https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea][The Lady Tasting Tea]]
 
-There are some really well written computational notebooks by Peter Norvig elucidating the probabilty concepts.
+#+BEGIN_HTML
 
-TODO: Add images for each of the Python notebooks
+<a href="https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea"><img width="300px" src="./img/the-lady-tasting-tea.jpg" alt="Cover image for The Lady Tasting the Tea" /></a>
 
-*** [[https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb][A Concrete Introduction to Probability]]
+#+END_HTML
 
-[[./img/a-concrete-introduction-to-probability.png]]
+*** David Salsburg
 
-*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb][Probability, Paradox, and the Reasonable Person Principle]]
+- April 1, 2001
+- 352 pages
 
-[[./img/probability-paradox-and-the-reasonable-person-principle.png]]
+** [[https://amzn.to/30CNY8N][The Theory that would not Die]]
+Subtitle:  How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines and Emerged Triumphant from Two Centuries of Controversy
 
-*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilitySimulation.ipynb][Estimating Probabilities with Simulations]]
+#+BEGIN_HTML
 
-[[./img/estimating-probabilities-with-simulations.png]]
+<a href="https://amzn.to/30CNY8N"><img src="./img/the-theory-that-would-not-die.jpg" width="300px" alt="Cover for The Theory that would not die" /></a>
 
----
+#+END_HTML
 
-More of these can be found here: https://github.com/norvig/pytudes/
+*** Sharon Bertsch McGrayne
+
+*** 2012
+
+360 pages
+
+A talk based on this book is available here: https://www.youtube.com/watch?v=8oD6eBkjF9o
+
+[[./img/the-theory-that-would-not-die-video.jpg]]
+
+The book describes the contest between frequentist and Bayesian approaches. It has less mathematics and computation using the mathematical concepts and is rather narrative oriented about how the different ideas panned out.
+
+** [[https://amzn.to/31od7UW][The Art Of Statistics]]
+Subtitle: How to Learn from Data
+
+David Spiegelhalter
+
+** [[https://amzn.to/3rrdZmU][Naked Statistics]]
+Charles Wheelan
 
 * History
 
@@ -198,19 +239,41 @@ Might be a nice book to start reading after The Book of Why to get into some of 
 
 * Empirical / Symbolic
 
-* [[https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up][The World is built on probability]]
+These are roughly the works with a Bayesian / Data centric bent which focusses on a symbolic approach. The more rigorous works in studies can also be seen in this section as visual ideas haven’t matured to capture the rigorous nature of mathematical machinery employed to make sense of the ideas in this field.
 
-#+BEGIN_HTML
-<a href="https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up"><img width="300px" src="./img/the-world-is-built-on-probability.jpg" alt="Cover of The World is Built on Probability" /></a>
-#+END_HTML
+** [[https://amzn.to/3ofHSo1][Understanding Uncertainty]]
 
-Lev Tarasov (Translated by Michael Burov)
+Dennis V. Lindley
 
-1984
+11th Edition (2006)
 
-198 pages
+An introductory book that gives a conceptual grounding for the ideas in probability and statistics.
 
-An introduction to the subject of probability motivated by examples from decision making, control theory, biology, and quantum mechanics. Was originally published in Russian and translated to English.
+** [[https://amzn.to/3dbmvOw][Theory of Probability: A Critical Introductory Treatment]]
+Bruno de Finetti
+
+A Bayesian approach on probability as accounting for consequences of decisions made.
+
+** [[https://amzn.to/3G4KwmM][Statistical Rethinking: With examples in R and STAN]]
+
+** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
+
+** [[https://www.openintro.org/book/os/][OpenIntro Statistics]]
+
+** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
+
+** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
+
+** [[https://amzn.to/2ZNwbeZ][An Introduction to Statistical Learning: With Applications in R]]
+
+Less background required than Elements of Statistical Learning
+
+** [[https://amzn.to/3dcA8ge][Statistics]]
+David Freedman, Robert Pisani, Roger Purves
+
+4th Edition (2007)
+
+A book directed towards people with minimal mathematics exposure. The organization of the book in helping build the intuition gradually is remarked by people have read it.
 
 ** [[https://amzn.to/3rykG6R][Statistical Inference]]
 
@@ -240,67 +303,50 @@ Morris DeGroot, Mark Schervish
 
 These are roughly the works with a Bayesian / Data centric bent which focusses on a visual approach.
 
+* [[https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up][The World is built on probability]]
+
+#+BEGIN_HTML
+<a href="https://archive.org/details/TheWorldIsBuiltOnProbability/page/n11/mode/2up"><img width="300px" src="./img/the-world-is-built-on-probability.jpg" alt="Cover of The World is Built on Probability" /></a>
+#+END_HTML
+
+Lev Tarasov (Translated by Michael Burov)
+
+1984
+
+198 pages
+
+An introduction to the subject of probability motivated by examples from decision making, control theory, biology, and quantum mechanics. Was originally published in Russian and translated to English.
+
 ** [[https://amzn.to/3Edl51Q][Bayes Theorem: A Visual Introduction for Beginners]]
 Dan Morris
 
 ** [[https://seeing-theory.brown.edu/index.html][Seeing Theory]]
 
-* Empirical / Symbolic
+** Peter Norvig Python Notebooks
 
-These are roughly the works with a Bayesian / Data centric bent which focusses on a symbolic approach. The more rigorous works in studies can also be seen in this section as visual ideas haven’t matured to capture the rigorous nature of mathematical machinery employed to make sense of the ideas in this field.
+There are some really well written computational notebooks by Peter Norvig elucidating the probabilty concepts.
+
+TODO: Add images for each of the Python notebooks
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb][A Concrete Introduction to Probability]]
+
+[[./img/a-concrete-introduction-to-probability.png]]
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb][Probability, Paradox, and the Reasonable Person Principle]]
+
+[[./img/probability-paradox-and-the-reasonable-person-principle.png]]
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilitySimulation.ipynb][Estimating Probabilities with Simulations]]
+
+[[./img/estimating-probabilities-with-simulations.png]]
+
+---
+
+More of these can be found here: https://github.com/norvig/pytudes/
 
 * Videos
 
 https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
-
-* Introductory Works
-
-** [[https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea][The Lady Tasting Tea]]
-
-#+BEGIN_HTML
-
-<a href="https://en.wikipedia.org/wiki/The_Lady_Tasting_Tea"><img width="300px" src="./img/the-lady-tasting-tea.jpg" alt="Cover image for The Lady Tasting the Tea" /></a>
-
-#+END_HTML
-
-*** David Salsburg
-
-- April 1, 2001
-- 352 pages
-
-** [[https://amzn.to/30CNY8N][The Theory that would not Die – How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines and Emerged Triumphant from Two Centuries of Controversy]]
-
-#+BEGIN_HTML
-
-<a href="https://amzn.to/30CNY8N"><img src="./img/the-theory-that-would-not-die.jpg" width="300px" alt="Cover for The Theory that would not die" /></a>
-
-#+END_HTML
-
-*** Sharon Bertsch McGrayne
-
-*** 2012
-
-360 pages
-
-A talk based on this book is available here: https://www.youtube.com/watch?v=8oD6eBkjF9o
-
-[[./img/the-theory-that-would-not-die-video.jpg]]
-
-The book describes the contest between frequentist and Bayesian approaches. It has less mathematics and computation using the mathematical concepts and is rather narrative oriented about how the different ideas panned out.
-
-** [[https://amzn.to/31od7UW][The Art Of Statistics: How to Learn from Data]]
-David Spiegelhalter
-
-** [[https://amzn.to/3rrdZmU][Naked Statistics]]
-Charles Wheelan
-
-** [[https://amzn.to/3ofHSo1][Understanding Uncertainty]]
-
-Dennis V. Lindley
-
-11th Edition (2006)
-
-An introductory book that gives a conceptual grounding for the ideas in probability and statistics.
 
 * Frequentist
 
@@ -312,34 +358,6 @@ David R. Cox
 
 ** [[https://amzn.to/3xM0Qpq][All of Statistics: A Course in Statistical Inference]]
 Larry Wasserman
-
-* Empiric/Symbolic
-
-** [[https://amzn.to/3dbmvOw][Theory of Probability: A Critical Introductory Treatment]]
-Bruno de Finetti
-
-A Bayesian approach on probability as accounting for consequences of decisions made.
-
-** [[https://amzn.to/3G4KwmM][Statistical Rethinking: With examples in R and STAN]]
-
-** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
-
-** [[https://www.openintro.org/book/os/][OpenIntro Statistics]]
-
-** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
-
-** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
-
-** [[https://amzn.to/2ZNwbeZ][An Introduction to Statistical Learning: With Applications in R]]
-
-Less background required than Elements of Statistical Learning
-
-** [[https://amzn.to/3dcA8ge][Statistics]]
-David Freedman, Robert Pisani, Roger Purves
-
-4th Edition (2007)
-
-A book directed towards people with minimal mathematics exposure. The organization of the book in helping build the intuition gradually is remarked by people have read it.
 
 * History
 
