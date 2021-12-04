@@ -32,31 +32,36 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 
 |                              Introductory                              |
 |------------------------------------------------------------------------|
-| [[#probability-theory-first-steps][Probability Theory: First Steps]] |
-| [[#lady-luck][Lady Luck]]                                            |
-| [[#the-lady-tasting-tea][The Lady Tasting Tea]]                      |
-| [[#the-theory-that-would-not-die][The Theory that Would not Die]]    |
-| [[#the-art-of-statistics][The Art of Statistics*]]                    |
-| [[#naked-statistics][Naked Statistics*]]                              |
-|             |
+| [[#probability-theory-first-steps][Probability Theory: First Steps]]   |
+| [[#lady-luck][Lady Luck]]                                              |
+| [[#the-lady-tasting-tea][The Lady Tasting Tea]]                        |
+| [[#the-theory-that-would-not-die][The Theory that Would not Die]]      |
+| [[#the-art-of-statistics][The Art of Statistics*]]                     |
+| [[#naked-statistics][Naked Statistics*]]                               |
 
 
 
 |         Logical/Visual         |         Logical/Symbolic          |         Empirical/Visual         |         Empirical/Symbolic         |
 |--------------------------------+-----------------------------------+----------------------------------+------------------------------------|
-| | | | [[./#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] |
-| | | | [[./#understanding-uncertainty][Understanding Uncertainty]] |
+| [[#probability-theory-for-scientists-and-engineers]] |  [[#probability-theory-the-logic-of-science][Probability Theory: The Logic of Science]] | | [[#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] |
+| [[#probability-theory-first-steps]] | [[#probability-theory-for-an-enthusiastic-beginner][Probability Theory for An Enthusiastic Beginner]] | | [[#understanding-uncertainty][Understanding Uncertainty]] |
+| [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | | |
+| | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | | |
+| | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | |
+
 
 | Rigorous works        |
+|-----------------------|
+| |
+
+
+| History |
+|---------|
+| [[#taming-of-chance][Taming of Chance]] |
+| [[#the-empire-of-chance][The Empire of Chance]] |
 
 
 | Additional reads |
-
-
-
-* Probability
-
-TODO: Write an overview of the best books here, highlighting what might be good reads, even though it doesn‘t make it to the top suggestions.
 
 ** Overview of topics covered
 
@@ -65,14 +70,6 @@ TODO: Add in later by codifying the data on how different books treat different 
 * Introductory Works
 
 These are the introductory works into the topic. The books here are popular introductory works into probability which doesn’t get down into the nitty gritty and as such reading these should be supplemented with more rigorous works. They are added here so that an interested reader who is totally new to this domain can build context and familiarize themselves with the central ideas of this field. This also includes some computational notebooks by Peter Norvig which could be of great help in trying to get hands dirty with the algorithms that one uses when trying to navigate the landscape of probability and statistics.
-
-** [[https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up][Probability Theory: First Steps]]
-
-#+BEGIN_HTML
-<a href="https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up"><img src="./img/probability-theory-first-steps.jpg" alt="Cover for Probability Theory: The First Steps" width="300px" /></a>
-#+END_HTML
-
-An introduction to probability theory in popular language
 
 ** [[https://amzn.to/3nyM3v1][Lady Luck]]
 
@@ -124,30 +121,18 @@ The book describes the contest between frequentist and Bayesian approaches. It h
 ** [[https://amzn.to/31od7UW][The Art Of Statistics]]
 Subtitle: How to Learn from Data
 
+#+BEGIN_HTML
+<a href="https://amzn.to/31od7UW"><img width="300px" src="./img/the-art-of-statistics.jpg" alt="Cover image for The Art of Statistics" /></a>
+#+END_HTML
+
 David Spiegelhalter
+2020
+
+An easy introduction into the world of statistics
 
 ** [[https://amzn.to/3rrdZmU][Naked Statistics]]
 Charles Wheelan
-
-* History
-
-An overview of the history would benefit by providing the motivation and original scenarios in which the concepts originated. They are also a good way for people looking to research into this area to understand some of the original strands and possible find a wealth of problems that are linked with the genesis of the ideas.
-
-** [[https://amzn.to/3FARmQM][The Empire of Chance: How Probability Changed Science and Everyday Life]]
-
-#+BEGIN_HTML
-<a href="https://amzn.to/3FARmQM"><img width="300px" src="./img/the-empire-of-chance.jpg" alt="Cover of The Empire of Chance" /></a>
-#+END_HTML
-
-Gerd Gigerenzer, Zeno Swijtink, Theodore Porter, Lorraine Daston, John Beatty, Lorenz Krüger
-
-October 26, 1990
-
-360 pages
-
-History of modern statistics and its connections with other domains of knowledge.
-
-Judea Pearl
+2014
 
 * Logical / Visual
 
@@ -163,19 +148,13 @@ An online book that provides visual intuition into the ideas of probability alon
 
 There is also a follow up book from here under [[https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html][Probabilistic Modeling and Statistical Inference]]
 
-** [[https://amzn.to/3l2Pp7X][Introduction to Probability]]
+** [[https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up][Probability Theory: First Steps]]
 
 #+BEGIN_HTML
-<a href="https://amzn.to/3l2Pp7X"><img width="300px" src="./img/introduction-to-probability.jpg" alt="Cover image for Introduction to Probability" /></a>
+<a href="https://archive.org/details/ProbabilityTheoryfirstSteps/mode/2up"><img src="./img/probability-theory-first-steps.jpg" alt="Cover for Probability Theory: The First Steps" width="300px" /></a>
 #+END_HTML
 
-Dimitri Bertsekas, John Tsitsiklis
-
-June 24, 2002
-
-430 pages
-
-When considering the dimensions between intuition and rigour, this book provides ample intuition to the ideas in probability. It is also supported by some good exercises to work through.
+An introduction to probability theory in popular language
 
 ** [[http://setosa.io/conditional/][Conditional Probability Explained Visually]]
 
@@ -220,6 +199,20 @@ David Morin
 371 pages
 
 A book that attempts to build on the intuition. Less of proving theorems rigorously and there is a combinatorial chapter in the beginning which for building a base in combinatorics.
+
+** [[https://amzn.to/3l2Pp7X][Introduction to Probability]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3l2Pp7X"><img width="300px" src="./img/introduction-to-probability.jpg" alt="Cover image for Introduction to Probability" /></a>
+#+END_HTML
+
+Dimitri Bertsekas, John Tsitsiklis
+
+June 24, 2002
+
+430 pages
+
+When considering the dimensions between intuition and rigour, this book provides ample intuition to the ideas in probability. It is also supported by some good exercises to work through.
 
 ** [[https://archive.org/details/GianCarlo_Rota_and_Kenneth_Baclawski__An_Introduction_to_Probability_and_Random_Processes/page/n1/mode/2up][An introduction to Probability and Random Processes]]
 
@@ -352,10 +345,6 @@ TODO: Add images for each of the Python notebooks
 
 More of these can be found here: https://github.com/norvig/pytudes/
 
-* Videos
-
-https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
-
 * Frequentist
 
 ** [[https://amzn.to/3DcVxAD][Probability via Expectation]]
@@ -370,6 +359,8 @@ Larry Wasserman
 
 * History
 
+An overview of the history would benefit by providing the motivation and original scenarios in which the concepts originated. They are also a good way for people looking to research into this area to understand some of the original strands and possible find a wealth of problems that are linked with the genesis of the ideas.
+
 ** [[https://amzn.to/3FZZaf8][Taming of Chance]]
 
 Ian Hacking
@@ -378,6 +369,20 @@ Ian Hacking
 
 A standard recommendation to learn about the origins of probability ad statistics. This book, along with [[https://amzn.to/3dalnuF][The Emergence of Probability]] by Hacking, which has a more philosophical bent, might serve as a decent bundle for exposure to the historical details on how probability took shape as a science.
 
+** [[https://amzn.to/3FARmQM][The Empire of Chance: How Probability Changed Science and Everyday Life]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3FARmQM"><img width="300px" src="./img/the-empire-of-chance.jpg" alt="Cover of The Empire of Chance" /></a>
+#+END_HTML
+
+Gerd Gigerenzer, Zeno Swijtink, Theodore Porter, Lorraine Daston, John Beatty, Lorenz Krüger
+
+October 26, 1990
+
+360 pages
+
+History of modern statistics and its connections with other domains of knowledge.
+
 ** [[https://amzn.to/30TNewk][The Rise of Statistical Thinking - 1820 – 1900]]
 Theodore M. Porter
 August 18, 2020
@@ -385,7 +390,12 @@ August 18, 2020
 
 History of the subject with more of an academic bent. A general reader might find Ian Hacking’s work more approachable.
 
+* Videos
+
+https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
+
 * To check out:
+
 ** [[https://amzn.to/31lXjlA][An Introduction to Probability Theory and Its Applications]]
 William Feller
 
