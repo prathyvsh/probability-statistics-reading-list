@@ -30,12 +30,12 @@ TODO: May be include a 2 × 2 of the book distribution?
 
 |                              Introductory                              |
 |------------------------------------------------------------------------|
-| [[./#probability-theory-first-steps][Probability Theory: First Steps]] |
-| [[./#lady-luck][Lady Luck]]                                            |
-| [[./#the-lady-tasting-tea][The Lady Tasting Tea]]                      |
-| [[./#the-theory-that-would-not-die][The Theory that Would not Die]]    |
-| [[./#the-art-of-statistics][The Art of Statistics]]                    |
-| [[./#naked-statistics][Naked Statistics]]                              |
+| [[#probability-theory-first-steps][Probability Theory: First Steps]] |
+| [[#lady-luck][Lady Luck]]                                            |
+| [[#the-lady-tasting-tea][The Lady Tasting Tea]]                      |
+| [[#the-theory-that-would-not-die][The Theory that Would not Die]]    |
+| [[#the-art-of-statistics][The Art of Statistics]]                    |
+| [[#naked-statistics][Naked Statistics]]                              |
 |             |
 
 
