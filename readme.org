@@ -43,8 +43,8 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 
 |         Logical/Visual         |         Logical/Symbolic          |         Empirical/Visual         |         Empirical/Symbolic         |
 |--------------------------------+-----------------------------------+----------------------------------+------------------------------------|
-| [[#probability-theory-for-scientists-and-engineers]] |  [[#probability-theory-the-logic-of-science][Probability Theory: The Logic of Science]] | | [[#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] |
-| [[#probability-theory-first-steps]] | [[#probability-theory-for-an-enthusiastic-beginner][Probability Theory for An Enthusiastic Beginner]] | | [[#understanding-uncertainty][Understanding Uncertainty]] |
+| [[#probability-theory-for-scientists-and-engineers][Probability Theory (for Scientists and Engineers)]] |  [[#probability-theory-the-logic-of-science][Probability Theory: The Logic of Science]] | | [[#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] |
+| [[#probability-theory-first-steps][Probability Theory: First Steps]] | [[#probability-theory-for-an-enthusiastic-beginner][Probability Theory for An Enthusiastic Beginner]] | | [[#understanding-uncertainty][Understanding Uncertainty]] |
 | [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | | |
 | | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | | |
 | | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | |
