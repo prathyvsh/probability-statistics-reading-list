@@ -502,5 +502,5 @@ Robert L. Waldrop
 
 ** [[https://amzn.to/3GdZx5L][A Natural Introduction to Probability]]
 
-* [[https://amzn.to/3dlEKAW][Introduction to Statistics]]
+** [[https://amzn.to/3dlEKAW][Introduction to Statistics]]
 Jim Frost
