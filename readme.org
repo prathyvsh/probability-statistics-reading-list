@@ -82,11 +82,15 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 |-------------------------------------------------|
 | [[#taming-of-chance][Taming of Chance]]         |
 | [[#the-empire-of-chance][The Empire of Chance]] |
-| |
+| [[#the-rise-of-statistical-thinking-1820-1900][The Rise of Statistical Thinking - 1820 – 1900]] |
 
 
 | Additional reads |
 |------------------|
+| [[#against-the-gods][Against the Gods]] |
+| [[#the-misbehaviour-of-markets][The (Mis)Behaviour of Markets]] |
+| [[#information-theory-inference-and-learning-algorithms][Information Theory, Inference, and Learning Algorithms]] |
+| [[#advanced-data-analytics-from-an-elementary-point-of-view][Advanced Data Analytics from an Elementary Point of View]] |
 
 ** Overview of topics covered
 
