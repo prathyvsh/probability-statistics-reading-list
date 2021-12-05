@@ -55,11 +55,11 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 | | | | [[#elements-of-statistical-learning][Elements of Statistical Learning]] |
 | | | | [[#statistics][Statistics]] |
 | | | | [[#introduction-to-probability-and-statistics-for-scientists-and-engineers][Introduction to Probability and Statistics for Scientists and Engineers]] |
-| | | | [[#introduction-to-probability][Introduction to Probability]] |
+| | | | [[#grinstead-and-snells-introduction-to-probability][Grinstead and Snell’s Introduction to Probability]] |
 | | | | [[#probability-and-statistics][Probability and Statistics]] |
 | | | | [[#think-bayes][Think Bayes]] |
 | | | | [[#understanding-probability][Understanding Probability]] |
-| | | | [[#introduction-to-probability][Introduction to Probability]] |
+| | | | [[#blitzen-and-hwangs-introduction-to-probability][Blitzen and Hwang’s Introduction to Probability]] |
 
 
 | Rigorous works                                                                                                                    |
@@ -438,7 +438,7 @@ First Edition: 1987, 6th Edition: 2020
 
 Used as a common textbook in many universities.
 
-** [[https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/book.html][Introduction to Probability]]
+** [[https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/book.html][Grinstead and Snell’s Introduction to Probability]]
 
 Charles M. Grinstead, J. Laurie Snell
 
@@ -482,14 +482,14 @@ Henk Tijms
 
 The book is divide into two parts with the first part giving an intuition for the concepts involved and the second giving the subject a more formal treatment.
 
-** [[http://probabilitybook.net][Introduction to Probability]]
+** [[http://probabilitybook.net][Blitzstein and Hwang’s Introduction to Probability]]
 
 Joseph K. Blitzstein, Jessica Hwang
 
 [[https://amzn.to/3pjo16N][1st Edition: 2014]], 2nd Edition: 2019
 
 #+BEGIN_HTML
-<a href="http://probabilitybook.net"><img width="300px" src="./img/introduction-to-probability.jpg" alt="Cover of Introduction to Probability" /></a>
+<a href="http://probabilitybook.net"><img width="300px" src="./img/introduction-to-probability-blitzen-hwang.jpg" alt="Cover of Introduction to Probability" /></a>
 #+END_HTML
 
 A highly recommended book to learn probability from. Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
