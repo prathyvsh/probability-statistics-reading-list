@@ -48,7 +48,18 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 | [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | | [[#principles-of-statistical-inference][Principles of Statistical Inference]] |
 | | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | | [[#all-of-statistics-a-course-in-statistical-inference][All of Statistics]] |
 | | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | [[#theory-of-probability-a-critical-introductory-treatment][Theory of Probability]] |
-| | [[#discrete-probability][Discrete Probability]] | | | |
+| | [[#discrete-probability][Discrete Probability]] | | [[#statistical-rethinking][Statistical Rethinking]] |
+| | | | [[#think-stats][Think Stats]] |
+| | | | [[#openintro-statistics]] |
+| | | | [[#an-introduction-to-statistical-learning-with-applications-in-r][An Introduction to Statistical Learning: With Applications in R]] |
+| | | | [[#elements-of-statistical-learning][Elements of Statistical Learning]] |
+| | | | [[#statistics][Statistics]] |
+| | | | [[#introduction-to-probability-and-statistics-for-scientists-and-engineers][Introduction to Probability and Statistics for Scientists and Engineers]] |
+| | | | [[#introduction-to-probability][Introduction to Probability]] |
+| | | | [[#probability-and-statistics][Probability and Statistics]] |
+| | | | [[#think-bayes][Think Bayes]] |
+| | | | [[#understanding-probability][Understanding Probability]] |
+| | | | [[#introduction-to-probability][Introduction to Probability]] |
 
 
 | Rigorous works                                                                                                                    |
