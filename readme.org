@@ -44,22 +44,22 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 |         Logical/Visual         |         Logical/Symbolic          |         Empirical/Visual         |         Empirical/Symbolic         |
 |--------------------------------+-----------------------------------+----------------------------------+------------------------------------|
 | [[#probability-theory-for-scientists-and-engineers][Probability Theory (for Scientists and Engineers)]] |  [[#probability-theory-the-logic-of-science][Probability Theory: The Logic of Science]] | [[#the-world-is-built-on-probability][The World is Built on Probability]] | [[#understanding-uncertainty][Understanding Uncertainty]] |
-| [[#probability-theory-first-steps][Probability Theory: First Steps]] | [[#probability-theory-for-an-enthusiastic-beginner][Probability Theory for An Enthusiastic Beginner]] | [[#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] | [[#probability-via-expectation][Probability via Expectation]] |
-| [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | [[#bayes-theorem-a-visual-introduction-for-beginners]] | [[#principles-of-statistical-inference][Principles of Statistical Inference]] |
+| [[#probability-theory-first-steps][Probability Theory: First Steps]] | [[#probability-for-an-enthusiastic-beginner][Probability Theory for An Enthusiastic Beginner]] | [[#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] | [[#probability-via-expectation][Probability via Expectation]] |
+| [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | [[#bayes-theorem-a-visual-introduction-for-beginners][Bayes Theorem: A Visual Introduction for Beginners]] | [[#principles-of-statistical-inference][Principles of Statistical Inference]] |
 | | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | [[#seeing-theory][Seeing Theory]] | [[#all-of-statistics-a-course-in-statistical-inference][All of Statistics]] |
 | | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | [[#theory-of-probability-a-critical-introductory-treatment][Theory of Probability]] |
 | | [[#discrete-probability][Discrete Probability]] | | [[#statistical-rethinking][Statistical Rethinking]] |
 | | | | [[#think-stats][Think Stats]] |
 | | | | [[#openintro-statistics][OpenIntro Statistics]] |
 | | | | [[#an-introduction-to-statistical-learning-with-applications-in-r][An Introduction to Statistical Learning: With Applications in R]] |
-| | | | [[#elements-of-statistical-learning][Elements of Statistical Learning]] |
+| | | | [[#the-elements-of-statistical-learning][The Elements of Statistical Learning]] |
 | | | | [[#statistics][Statistics]] |
-| | | | [[#introduction-to-probability-and-statistics-for-scientists-and-engineers][Introduction to Probability and Statistics for Scientists and Engineers]] |
+| | | | [[#introduction-to-probability-and-statistics-for-engineers-and-scientists][Introduction to Probability and Statistics for Engineers and Scientists]] |
 | | | | [[#grinstead-and-snells-introduction-to-probability][Grinstead and Snell’s Introduction to Probability]] |
 | | | | [[#probability-and-statistics][Probability and Statistics]] |
 | | | | [[#think-bayes][Think Bayes]] |
 | | | | [[#understanding-probability][Understanding Probability]] |
-| | | | [[#blitzen-and-hwangs-introduction-to-probability][Blitzen and Hwang’s Introduction to Probability]] |
+| | | | [[#blitzstein-and-hwangs-introduction-to-probability][Blitzstein and Hwang’s Introduction to Probability]] |
 
 
 | Rigorous works                                                                                                                    |
