@@ -384,7 +384,7 @@ Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 <a href="https://www.statlearning.com/"><img width="300px" src="./img/an-introduction-to-statistical-learning.jpg" alt="Cover of An Introduction to Statistical Learning" /></a>
 #+END_HTML
 
-Less background required than Elements of Statistical Learning
+Less background required than [[#elements-of-statistical-learning][Elements of Statistical Learning]]
 
 ** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
 Subtitle: Data Mining, Inference, Prediction
@@ -392,6 +392,10 @@ Subtitle: Data Mining, Inference, Prediction
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
 1st published: 2001, 2nd Edition: 2009
+
+#+BEGIN_HTML
+<a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf"><img width="300px" src="./img/elements-of-statistical-learning.jpg" alt="Cover of Elements of Statistical Learning" /></a>
+#+END_HTML
 
 A thorough book giving sound overview of the fundamentals of statistics.
 
