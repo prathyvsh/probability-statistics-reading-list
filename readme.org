@@ -50,7 +50,7 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 | | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | [[#theory-of-probability-a-critical-introductory-treatment][Theory of Probability]] |
 | | [[#discrete-probability][Discrete Probability]] | | [[#statistical-rethinking][Statistical Rethinking]] |
 | | | | [[#think-stats][Think Stats]] |
-| | | | [[#openintro-statistics]] |
+| | | | [[#openintro-statistics][OpenIntro Statistics]] |
 | | | | [[#an-introduction-to-statistical-learning-with-applications-in-r][An Introduction to Statistical Learning: With Applications in R]] |
 | | | | [[#elements-of-statistical-learning][Elements of Statistical Learning]] |
 | | | | [[#statistics][Statistics]] |
@@ -457,7 +457,7 @@ Morris DeGroot, Mark Schervish
 Allen Downey
 
 #+BEGIN_HTML
-<a href="https://greenteapress.com/wp/think-bayes/"><img src="./img/think-bayes.jpg" alt="Cover of Think Bayes" /></a>
+<a href="https://greenteapress.com/wp/think-bayes/"><img width="300px" src="./img/think-bayes.jpg" alt="Cover of Think Bayes" /></a>
 #+END_HTML
 
 2012
@@ -473,7 +473,7 @@ Henk Tijms
 574 pages
 
 #+BEGIN_HTML
-<a href="https://amzn.to/31oVpAI"><img src="./img/understanding-probability.jpg" alt="Cover of Understanding Probability" /></a>
+<a href="https://amzn.to/31oVpAI"><img width="300px" src="./img/understanding-probability.jpg" alt="Cover of Understanding Probability" /></a>
 #+END_HTML
 
 The book is divide into two parts with the first part giving an intuition for the concepts involved and the second giving the subject a more formal treatment.
@@ -483,6 +483,10 @@ The book is divide into two parts with the first part giving an intuition for th
 Joseph K. Blitzstein, Jessica Hwang
 
 [[https://amzn.to/3pjo16N][1st Edition: 2014]], 2nd Edition: 2019
+
+#+BEGIN_HTML
+<a href="http://probabilitybook.net"><img width="300px" src="./img/introduction-to-probability.jpg" alt="Cover of Introduction to Probability" /></a>
+#+END_HTML
 
 A highly recommended book to learn probability from. Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
 
