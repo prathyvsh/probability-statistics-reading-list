@@ -516,7 +516,23 @@ An introduction to the subject of probability motivated by examples from decisio
 
 Dan Morris
 
+114 pages
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3Edl51Q"><img width="300px" src="./img/bayes-theorem-a-visual-introduction-for-beginners.jpg" alt="Cover of Bayes Theorem: A Visual Introduction for Beginners" /></a>
+#+END_HTML
+
+A short and quick introduction to Bayes Theorem.
+
 ** [[https://seeing-theory.brown.edu/index.html][Seeing Theory]]
+
+#+BEGIN_HTML
+<a href="https://seeing-theory.brown.edu/index.html"><img width="300px" src="./img/seeing-theory.png" alt="Cover of Seeing Theory" /></a>
+#+END_HTML
+
+Daniel Kunin, Jingru Guo, Tyler Dae Devlin, Daniel Xiang
+
+An interactive website introducing the concepts of probability and statistics.
 
 ** Peter Norvig Python Notebooks
 
@@ -544,11 +560,15 @@ More of these can be found here: https://github.com/norvig/pytudes/
 
 An overview of the history would benefit by providing the motivation and original scenarios in which the concepts originated. They are also a good way for people looking to research into this area to understand some of the original strands and possible find a wealth of problems that are linked with the genesis of the ideas.
 
-** [[https://amzn.to/3FZZaf8][Taming of Chance]]
+** [[https://amzn.to/3FZZaf8][The Taming of Chance]]
 
 Ian Hacking
 
 1990
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3FZZaf8"><img width="300px" src="./img/the-taming-of-chance.jpg" alt="Cover of The Taming of Chance" /></a>
+#+END_HTML
 
 A standard recommendation to learn about the origins of probability ad statistics. This book, along with [[https://amzn.to/3dalnuF][The Emergence of Probability]] by Hacking, which has a more philosophical bent, might serve as a decent bundle for exposure to the historical details on how probability took shape as a science.
 
@@ -573,6 +593,10 @@ Theodore M. Porter
 August 18, 2020
 
 360 pages
+
+#+BEGIN_HTML
+<a href="https://amzn.to/30TNewk"><img width="300px" src="./img/the-rise-of-statistical-thinking.jpg" alt="Cover of The Rise of Statistical Thinknig" /></a>
+#+END_HTML
 
 History of the subject with more of an academic bent. A general reader might find Ian Hacking’s work more approachable.
 
