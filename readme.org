@@ -419,9 +419,19 @@ First Edition: 1987, 6th Edition: 2020
 
 Used as a common textbook in many universities.
 
-** [[https://amzn.to/3EgDHhy][Introduction to Probability]]
+** [[https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/book.html][Introduction to Probability]]
 
 Charles M. Grinstead, J. Laurie Snell
+
+1997
+
+528 pages
+
+#+BEGIN_HTML
+<a href="https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/book.html"><img src="./img/introduction-to-probability.gif" alt="Cover of Statistics" /></a>
+#+END_HTML
+
+An open source text book to learn probability that takes a calculus based approach instead of combinatorial one.
 
 ** [[https://amzn.to/3odDsOI][Probability and Statistics]]
 
@@ -531,7 +541,7 @@ History of the subject with more of an academic bent. A general reader might fin
 
 https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 
-** Rigorous works
+* Rigorous works
 
 ** [[https://amzn.to/3Ekhsay][Introduction to Probability Theory]]
 
