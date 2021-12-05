@@ -443,7 +443,15 @@ Morris DeGroot, Mark Schervish
 
 ** [[https://greenteapress.com/wp/think-bayes/][Think Bayes]]
 
-** [[https://web.stanford.edu/~hastie/CASI/][Computer Age Statistical Inference]]
+Allen Downey
+
+#+BEGIN_HTML
+<a href="https://greenteapress.com/wp/think-bayes/"><img src="./img/think-bayes.jpg" alt="Cover of Think Bayes" /></a>
+#+END_HTML
+
+2012
+
+An introduction to Bayesian probability in the style of [[#think-stats][Think Stats]]
 
 ** [[https://amzn.to/31oVpAI][Understanding Probability]]
 
@@ -451,13 +459,21 @@ Henk Tijms
 
 2012
 
-** [[https://probabilitybook.net][Introduction to Probability]]
+574 pages
+
+#+BEGIN_HTML
+<a href="https://amzn.to/31oVpAI"><img src="./img/understanding-probability.jpg" alt="Cover of Understanding Probability" /></a>
+#+END_HTML
+
+The book is divide into two parts with the first part giving an intuition for the concepts involved and the second giving the subject a more formal treatment.
+
+** [[http://probabilitybook.net][Introduction to Probability]]
 
 Joseph K. Blitzstein, Jessica Hwang
 
 [[https://amzn.to/3pjo16N][1st Edition: 2014]], 2nd Edition: 2019
 
-Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
+A highly recommended book to learn probability from. Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
 
 * Empirical / Visual
 
@@ -597,6 +613,9 @@ Leonard J. Savage
 
 ** [[https://amzn.to/3EpJ7qF][Probability Theory and Stochastic Processes With Applications]]
 Oliver Knill
+
+** [[https://web.stanford.edu/~hastie/CASI/][Computer Age Statistical Inference]]
+Bradley Efron, Trevor Hastie
 
 ** [[https://amzn.to/3rykG6R][Statistical Inference]]
 
