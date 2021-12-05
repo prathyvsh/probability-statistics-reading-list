@@ -43,10 +43,10 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 
 |         Logical/Visual         |         Logical/Symbolic          |         Empirical/Visual         |         Empirical/Symbolic         |
 |--------------------------------+-----------------------------------+----------------------------------+------------------------------------|
-| [[#probability-theory-for-scientists-and-engineers][Probability Theory (for Scientists and Engineers)]] |  [[#probability-theory-the-logic-of-science][Probability Theory: The Logic of Science]] | [[#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] | [[#understanding-uncertainty][Understanding Uncertainty]] |
-| [[#probability-theory-first-steps][Probability Theory: First Steps]] | [[#probability-theory-for-an-enthusiastic-beginner][Probability Theory for An Enthusiastic Beginner]] | | [[#probability-via-expectation][Probability via Expectation]] |
-| [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | | [[#principles-of-statistical-inference][Principles of Statistical Inference]] |
-| | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | | [[#all-of-statistics-a-course-in-statistical-inference][All of Statistics]] |
+| [[#probability-theory-for-scientists-and-engineers][Probability Theory (for Scientists and Engineers)]] |  [[#probability-theory-the-logic-of-science][Probability Theory: The Logic of Science]] | [[#the-world-is-built-on-probability][The World is Built on Probability]] | [[#understanding-uncertainty][Understanding Uncertainty]] |
+| [[#probability-theory-first-steps][Probability Theory: First Steps]] | [[#probability-theory-for-an-enthusiastic-beginner][Probability Theory for An Enthusiastic Beginner]] | [[#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] | [[#probability-via-expectation][Probability via Expectation]] |
+| [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | [[#bayes-theorem-a-visual-introduction-for-beginners]] | [[#principles-of-statistical-inference][Principles of Statistical Inference]] |
+| | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | [[#seeing-theory][Seeing Theory]] | [[#all-of-statistics-a-course-in-statistical-inference][All of Statistics]] |
 | | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | [[#theory-of-probability-a-critical-introductory-treatment][Theory of Probability]] |
 | | [[#discrete-probability][Discrete Probability]] | | [[#statistical-rethinking][Statistical Rethinking]] |
 | | | | [[#think-stats][Think Stats]] |
@@ -520,6 +520,24 @@ Lev Tarasov (Translated by Michael Burov)
 
 An introduction to the subject of probability motivated by examples from decision making, control theory, biology, and quantum mechanics. Was originally published in Russian and translated to English.
 
+** [[https://github.com/norvig/pytudes/][Peter Norvig Python Notebooks]]
+
+There are some really well written computational notebooks by Peter Norvig elucidating the probabilty concepts.
+
+TODO: Add images for each of the Python notebooks
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb][A Concrete Introduction to Probability]]
+
+[[./img/a-concrete-introduction-to-probability.png]]
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb][Probability, Paradox, and the Reasonable Person Principle]]
+
+[[./img/probability-paradox-and-the-reasonable-person-principle.png]]
+
+*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilitySimulation.ipynb][Estimating Probabilities with Simulations]]
+
+[[./img/estimating-probabilities-with-simulations.png]]
+
 ** [[https://amzn.to/3Edl51Q][Bayes Theorem: A Visual Introduction for Beginners]]
 
 Dan Morris
@@ -541,28 +559,6 @@ A short and quick introduction to Bayes Theorem.
 Daniel Kunin, Jingru Guo, Tyler Dae Devlin, Daniel Xiang
 
 An interactive website introducing the concepts of probability and statistics.
-
-** Peter Norvig Python Notebooks
-
-There are some really well written computational notebooks by Peter Norvig elucidating the probabilty concepts.
-
-TODO: Add images for each of the Python notebooks
-
-*** [[https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb][A Concrete Introduction to Probability]]
-
-[[./img/a-concrete-introduction-to-probability.png]]
-
-*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilityParadox.ipynb][Probability, Paradox, and the Reasonable Person Principle]]
-
-[[./img/probability-paradox-and-the-reasonable-person-principle.png]]
-
-*** [[https://github.com/norvig/pytudes/blob/main/ipynb/ProbabilitySimulation.ipynb][Estimating Probabilities with Simulations]]
-
-[[./img/estimating-probabilities-with-simulations.png]]
-
----
-
-More of these can be found here: https://github.com/norvig/pytudes/
 
 * History
 
