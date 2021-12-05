@@ -456,6 +456,14 @@ An open source text book to learn probability that takes a calculus based approa
 
 Morris DeGroot, Mark Schervish
 
+First Edition: 1975, Fourth Edition: 2013
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3odDsOI" width="300px"><img src="./img/probability-and-statistics.jpg" alt="Cover of Probability and Statistics"/></a>
+#+END_HTML
+
+A highly recommended book for learning both probability and statistics.
+
 ** [[https://greenteapress.com/wp/think-bayes/][Think Bayes]]
 
 Allen Downey
@@ -489,7 +497,7 @@ Joseph K. Blitzstein, Jessica Hwang
 [[https://amzn.to/3pjo16N][1st Edition: 2014]], 2nd Edition: 2019
 
 #+BEGIN_HTML
-<a href="http://probabilitybook.net"><img width="300px" src="./img/introduction-to-probability-blitzen-hwang.jpg" alt="Cover of Introduction to Probability" /></a>
+<a href="http://probabilitybook.net"><img width="300px" src="./img/introduction-to-probability-blitzstein-hwang.jpg" alt="Cover of Introduction to Probability" /></a>
 #+END_HTML
 
 A highly recommended book to learn probability from. Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
@@ -527,7 +535,7 @@ A short and quick introduction to Bayes Theorem.
 ** [[https://seeing-theory.brown.edu/index.html][Seeing Theory]]
 
 #+BEGIN_HTML
-<a href="https://seeing-theory.brown.edu/index.html"><img width="300px" src="./img/seeing-theory.png" alt="Cover of Seeing Theory" /></a>
+<a href="https://seeing-theory.brown.edu/index.html"><img src="./img/seeing-theory.png" alt="Cover of Seeing Theory" /></a>
 #+END_HTML
 
 Daniel Kunin, Jingru Guo, Tyler Dae Devlin, Daniel Xiang
