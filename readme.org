@@ -36,8 +36,8 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 | [[#lady-luck][Lady Luck]]                                              |
 | [[#the-lady-tasting-tea][The Lady Tasting Tea]]                        |
 | [[#the-theory-that-would-not-die][The Theory that Would not Die]]      |
-| [[#the-art-of-statistics][The Art of Statistics*]]                     |
-| [[#naked-statistics][Naked Statistics*]]                               |
+| [[#the-art-of-statistics][The Art of Statistics]]                     |
+| [[#naked-statistics][Naked Statistics]]                               |
 
 
 
@@ -146,6 +146,14 @@ An easy introduction into the world of statistics
 ** [[https://amzn.to/3rrdZmU][Naked Statistics]]
 Charles Wheelan
 2014
+
+#+BEGIN_HTML
+
+<a href="https://amzn.to/3rrdZmU"><img width="300px" src="./img/naked-statistics.jpg" alt="Cover image for Naked Statistics" /></a>
+
+#+END_HTML
+
+A narrative driven account of the field of statistics.
 
 * Logical / Visual
 
