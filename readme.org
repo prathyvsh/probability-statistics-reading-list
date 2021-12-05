@@ -48,6 +48,7 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 | [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | | [[#principles-of-statistical-inference][Principles of Statistical Inference]] |
 | | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | | [[#all-of-statistics-a-course-in-statistical-inference][All of Statistics]] |
 | | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | [[#theory-of-probability-a-critical-introductory-treatment][Theory of Probability]] |
+| | [[#discrete-probability][Discrete Probability]] | | | |
 
 
 | Rigorous works                                                                                                                    |
@@ -268,6 +269,10 @@ Hugh Gordon
 
 2012
 
+#+BEGIN_HTML
+<a href="https://amzn.to/3dbBGar"><img width="300px" src="./img/discrete-probability.jpg" alt="Cover of Discrete Probability" /></a>
+#+END_HTML
+
 A book explaining discrete probability in an accessible language.
 
 * Empirical / Symbolic
@@ -300,13 +305,13 @@ Frequentist introduction to probability that takes an abstract approach.
 
 ** [[https://amzn.to/3dc5i7y][Principles of Statistical Inference]]
 
-#+BEGIN_HTML
-<a href="https://amzn.to/3dc5i7y"><img width="300px" src="./img/principles-of-statistical-inference.jpg" alt="Cover of Principles of Statistical Inference" /></a>
-#+END_HTML
-
 David R. Cox
 
 2006
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3dc5i7y"><img width="300px" src="./img/principles-of-statistical-inference.jpg" alt="Cover of Principles of Statistical Inference" /></a>
+#+END_HTML
 
 Frequentist introduction to statistical inference giving a comparison of various approaches.
 
@@ -357,16 +362,6 @@ Allen B. Downey
 
 A book that teaches statistics by programming through Python
 
-** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
-
-Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin
-
-First Edition: 1995, Second Edition: 2003, Third Edition: 2013
-
-#+BEGIN_HTML
-<a href="http://www.stat.columbia.edu/~gelman/book/"><img width="300px" src="./img/bayesian-data-analysis.png" alt="Cover of Bayesian Data Analysis" /></a>
-#+END_HTML
-
 ** [[https://www.openintro.org/book/os/][OpenIntro Statistics]]
 
 David Diez, Mike Çetinkaya-Rundel, Christopher Barr
@@ -392,8 +387,19 @@ Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 Less background required than Elements of Statistical Learning
 
 ** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
+Subtitle: Data Mining, Inference, Prediction
+
+Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+1st published: 2001, 2nd Edition: 2009
+
+A thorough book giving sound overview of the fundamentals of statistics.
 
 ** [[https://amzn.to/3dcA8ge][Statistics]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3dcA8ge"><img width="300px" src="./img/statistics.jpg" alt="Cover of Statistics" /></a>
+#+END_HTML
 
 David Freedman, Robert Pisani, Roger Purves
 
@@ -401,17 +407,17 @@ David Freedman, Robert Pisani, Roger Purves
 
 A book directed towards people with minimal mathematics exposure. The organization of the book in helping build the intuition gradually is remarked by people have read it.
 
-** [[https://amzn.to/3rykG6R][Statistical Inference]]
-
-George Casella and Roger Berger
-
-Typically used in many universities as the starting text. [[https://stats.stackexchange.com/questions/353138/casella-and-berger-vs-wasserman-to-acquire-a-good-statistics-foundation][Apparently]] more rigorous and more focused on technical details than All of Statistics.
-
 ** [[https://amzn.to/3xMEsw9][Introduction to Probability and Statistics for Engineers and Scientists]]
 
 Sheldon Ross
 
-First Edition: 1987, 6th Edition: 2021
+First Edition: 1987, 6th Edition: 2020
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3xMEsw9"><img width="300px" src="./img/introduction-to-probability-and-statistics-for-engineers-and-scientists.jpg" alt="Cover of Statistics" /></a>
+#+END_HTML
+
+Used as a common textbook in many universities.
 
 ** [[https://amzn.to/3EgDHhy][Introduction to Probability]]
 
@@ -556,6 +562,16 @@ Sidney Resnick
 ** [[https://amzn.to/3lDbFFB][Measure Theory and Probability Theory]]
 Krishna B. Athreya, Soumendra N. Lahiri
 
+** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
+
+Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin
+
+First Edition: 1995, Second Edition: 2003, Third Edition: 2013
+
+#+BEGIN_HTML
+<a href="http://www.stat.columbia.edu/~gelman/book/"><img width="300px" src="./img/bayesian-data-analysis.png" alt="Cover of Bayesian Data Analysis" /></a>
+#+END_HTML
+
 ** [[https://amzn.to/3oq7A9M][Probability with Martingales]]
 David Williams
 
@@ -567,6 +583,12 @@ Leonard J. Savage
 
 ** [[https://amzn.to/3EpJ7qF][Probability Theory and Stochastic Processes With Applications]]
 Oliver Knill
+
+** [[https://amzn.to/3rykG6R][Statistical Inference]]
+
+George Casella and Roger Berger
+
+Typically used in many universities as the starting text. [[https://stats.stackexchange.com/questions/353138/casella-and-berger-vs-wasserman-to-acquire-a-good-statistics-foundation][Apparently]] more rigorous and more focused on technical details than [[#all-of-statistics][All of Statistics]].
 
 ** [[https://amzn.to/31lXjlA][An Introduction to Probability Theory and Its Applications]]
 William Feller
