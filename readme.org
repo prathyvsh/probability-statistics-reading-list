@@ -50,18 +50,31 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 | | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | |
 
 
-| Rigorous works        |
-|-----------------------|
+| Rigorous works                                                                                                                    |
+|-----------------------------------------------------------------------------------------------------------------------------------|
+| [[#introduction-to-probability-theory][Introduction to Probability Theory]]                                                       |
+| [[#probability-and-measure][Probability and Measure]]                                                                             |
+| [[#probability][Probability]]                                                                                                     |
+| [[#a-course-in-probability-theory][A Course in Probability Theory]]                                                               |
+| [[#a-probability-path][A Probability Path]]                                                                                       |
+| [[#measure-theory-and-probability-theory][Measure Theory and Probability Theory]]                                                 |
+| [[#probability-with-martingales][Probability with Martingales]]                                                                   |
+| [[#probability-theory-and-examples][Probability: Theory and Examples]]                                                            |
+| [[#the-foundations-of-statistics][The Foundations of Statistics]]                                                                 |
+| [[#probability-theory-and-stochastic-processes-with-applications][Probability Theory and Stochastic Processes With Applications]] |
+| [[#probability-theory-a-comprehensive-course][Probability Theory: A Comprehensive Course]]                                        |
+| [[#probability-and-random-processes][Probability and Random Processes]]                                                           |
+
+
+| History                                         |
+|-------------------------------------------------|
+| [[#taming-of-chance][Taming of Chance]]         |
+| [[#the-empire-of-chance][The Empire of Chance]] |
 | |
 
 
-| History |
-|---------|
-| [[#taming-of-chance][Taming of Chance]] |
-| [[#the-empire-of-chance][The Empire of Chance]] |
-
-
 | Additional reads |
+|------------------|
 
 ** Overview of topics covered
 
@@ -254,6 +267,19 @@ Dennis V. Lindley
 
 An introductory book that gives a conceptual grounding for the ideas in probability and statistics.
 
+** [[https://amzn.to/3DcVxAD][Probability via Expectation]]
+Peter Whittle
+
+Frequentist introduction to probability
+
+** [[https://amzn.to/3dc5i7y][Principles of Statistical Inference]]
+David R. Cox
+
+Frequentist introduction to statistical inference
+
+** [[https://amzn.to/3xM0Qpq][All of Statistics: A Course in Statistical Inference]]
+Larry Wasserman
+
 ** [[https://amzn.to/3dbmvOw][Theory of Probability: A Critical Introductory Treatment]]
 Bruno de Finetti
 
@@ -291,7 +317,7 @@ Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 2013
 
 #+BEGIN_HTML
-<a href="https://www.statlearning.com/"><img width="300px" src="./img/an-introduction-to-statistical-learning.jpg" alt="Cover of An Introduction to Staistical Learning" /></a>
+<a href="https://www.statlearning.com/"><img width="300px" src="./img/an-introduction-to-statistical-learning.jpg" alt="Cover of An Introduction to Statistical Learning" /></a>
 #+END_HTML
 
 Less background required than Elements of Statistical Learning
@@ -373,18 +399,6 @@ TODO: Add images for each of the Python notebooks
 ---
 
 More of these can be found here: https://github.com/norvig/pytudes/
-
-* Frequentist
-
-** [[https://amzn.to/3DcVxAD][Probability via Expectation]]
-Peter Whittle
-
-
-** [[https://amzn.to/3dc5i7y][Principles of Statistical Inference]]
-David R. Cox
-
-** [[https://amzn.to/3xM0Qpq][All of Statistics: A Course in Statistical Inference]]
-Larry Wasserman
 
 * History
 
