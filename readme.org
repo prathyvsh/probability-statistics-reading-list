@@ -6,9 +6,9 @@ A compilation of books for learning probability and statistics from scratch.
 
 This repository contains an analysis of the commonly recommended books for learning probability and statistics from around the web.
 
-One thing to keep in mind is that advanced mathematics in areas like analysis and measure theory might become more important as we delve deeper into topics. Or may be even before that since things are deeply intertwined all across math. Some of the close adjacent areas to explore after this seems to be information theory, and statistical mechanics/thermodynamics as they can be seen commonly sprucing up in books addressing the topics of probability that I have examined here.
+One thing to keep in mind is that advanced mathematics in areas like analysis and measure theory might become more important as we delve deeper into topics. Or may be even before that since things are deeply intertwined all across math. Some of the close adjacent areas to explore after this seems to be information theory, and statistical mechanics/thermodynamics as they can be seen commonly sprucing up in books addressing the topics of probability that I have examined here. I have attempt to put the link to resources directly to those that are freely available and included Amazon affiliate links to others. I have also attempt to link to the places where the resource was recommended from.
 
-I have tagged the resources that are free and also put the places where the resource was recommended from.
+TODO: Tag the resources that are free using an icon/tag
 
 ** On the Categorization
 
@@ -46,7 +46,7 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 | [[#probability-theory-for-scientists-and-engineers][Probability Theory (for Scientists and Engineers)]] |  [[#probability-theory-the-logic-of-science][Probability Theory: The Logic of Science]] | [[#peter-norvig-python-notebooks][Peter Norvig Python Notebooks]] | [[#understanding-uncertainty][Understanding Uncertainty]] |
 | [[#probability-theory-first-steps][Probability Theory: First Steps]] | [[#probability-theory-for-an-enthusiastic-beginner][Probability Theory for An Enthusiastic Beginner]] | | [[#probability-via-expectation][Probability via Expectation]] |
 | [[#conditional-probability-explained-visually][Conditional Probability Explained Visually]] | [[#introduction-to-probability][Introduction to Probability]] | | [[#principles-of-statistical-inference][Principles of Statistical Inference]] |
-| | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | | [[#all-of-statistics][All of Statistics]] |
+| | [[#an-introduction-to-probability-and-random-processes][An Introduction to Probability and Random Processes]] | | [[#all-of-statistics-a-course-in-statistical-inference][All of Statistics]] |
 | | [[#causal-inference-a-primer][Causal Inference: A Primer]] | | [[#theory-of-probability-a-critical-introductory-treatment][Theory of Probability]] |
 
 
@@ -339,12 +339,27 @@ A computational approach to Bayesian statistics. Not theoretically demanding as 
 
 ** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
 
+#+BEGIN_HTML
+<a href="https://greenteapress.com/wp/think-stats-2e/"><img width="300px" src="./img/think-stats.jpg" alt="Cover of Think Stats" /></a>
+#+END_HTML
+
+A book that teaches statistics by programming through Python
+
 
 ** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
+
+#+BEGIN_HTML
+<a href="http://www.stat.columbia.edu/~gelman/book/"><img width="300px" src="./img/bayesian-data-analysis.png" alt="Cover of Bayesian Data Analysis" /></a>
+#+END_HTML
 
 
 ** [[https://www.openintro.org/book/os/][OpenIntro Statistics]]
 
+#+BEGIN_HTML
+<a href="https://www.openintro.org/book/os/"><img width="300px" src="./img/open-intro-statistics.jpg" alt="Cover of Open Intro Statistics" /></a>
+#+END_HTML
+
+An open source text book for learning statistics along with supporting video lectures and labs.
 
 ** [[https://www.statlearning.com/][An Introduction to Statistical Learning: With Applications in R]]
 
