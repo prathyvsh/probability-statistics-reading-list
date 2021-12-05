@@ -134,17 +134,20 @@ The book describes the contest between frequentist and Bayesian approaches. It h
 ** [[https://amzn.to/31od7UW][The Art Of Statistics]]
 Subtitle: How to Learn from Data
 
+David Spiegelhalter
+
+2020
+
 #+BEGIN_HTML
 <a href="https://amzn.to/31od7UW"><img width="300px" src="./img/the-art-of-statistics.jpg" alt="Cover image for The Art of Statistics" /></a>
 #+END_HTML
 
-David Spiegelhalter
-2020
-
 An easy introduction into the world of statistics
 
 ** [[https://amzn.to/3rrdZmU][Naked Statistics]]
+
 Charles Wheelan
+
 2014
 
 #+BEGIN_HTML
@@ -276,19 +279,41 @@ Dennis V. Lindley
 An introductory book that gives a conceptual grounding for the ideas in probability and statistics.
 
 ** [[https://amzn.to/3DcVxAD][Probability via Expectation]]
+
 Peter Whittle
 
-Frequentist introduction to probability
+1992
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3DcVxAD"><img width="300px" src="./img/probability-via-expectation.jpg" alt="Cover of Probability via Expectation" /></a>
+#+END_HTML
+
+Frequentist introduction to probability that takes an abstract approach.
 
 ** [[https://amzn.to/3dc5i7y][Principles of Statistical Inference]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3dc5i7y"><img width="300px" src="./img/principles-of-statistical-inference.jpg" alt="Cover of Principles of Statistical Inference" /></a>
+#+END_HTML
+
 David R. Cox
 
-Frequentist introduction to statistical inference
+2006
+
+Frequentist introduction to statistical inference giving a comparison of various approaches.
 
 ** [[https://amzn.to/3xM0Qpq][All of Statistics: A Course in Statistical Inference]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3xM0Qpq"><img width="300px" src="./img/all-of-statistics.jpg" alt="Cover of All of Statistics" /></a>
+#+END_HTML
+
 Larry Wasserman
 
+An introductory book that takes a rigorous approach towards introducing the concepts. Might not be the most apt book to start for learning statistics from scratch, but once you are confident about the basics, this is highly recommended as a book to learn the elements of statistics.
+
 ** [[https://amzn.to/3dbmvOw][Theory of Probability: A Critical Introductory Treatment]]
+
 Bruno de Finetti
 
 1974
@@ -314,9 +339,12 @@ A computational approach to Bayesian statistics. Not theoretically demanding as 
 
 ** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
 
+
 ** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
 
+
 ** [[https://www.openintro.org/book/os/][OpenIntro Statistics]]
+
 
 ** [[https://www.statlearning.com/][An Introduction to Statistical Learning: With Applications in R]]
 
@@ -333,6 +361,7 @@ Less background required than Elements of Statistical Learning
 ** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
 
 ** [[https://amzn.to/3dcA8ge][Statistics]]
+
 David Freedman, Robert Pisani, Roger Purves
 
 4th Edition (2007)
@@ -382,6 +411,7 @@ Lev Tarasov (Translated by Michael Burov)
 An introduction to the subject of probability motivated by examples from decision making, control theory, biology, and quantum mechanics. Was originally published in Russian and translated to English.
 
 ** [[https://amzn.to/3Edl51Q][Bayes Theorem: A Visual Introduction for Beginners]]
+
 Dan Morris
 
 ** [[https://seeing-theory.brown.edu/index.html][Seeing Theory]]
@@ -435,8 +465,11 @@ October 26, 1990
 History of modern statistics and its connections with other domains of knowledge.
 
 ** [[https://amzn.to/30TNewk][The Rise of Statistical Thinking - 1820 – 1900]]
+
 Theodore M. Porter
+
 August 18, 2020
+
 360 pages
 
 History of the subject with more of an academic bent. A general reader might find Ian Hacking’s work more approachable.
@@ -448,6 +481,7 @@ https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 * To check out:
 
 ** [[https://amzn.to/31lXjlA][An Introduction to Probability Theory and Its Applications]]
+
 William Feller
 
 ** [[https://amzn.to/3IdxLIs][Data Analysis Using Regression and Multilevel/Hierarchical Analysis]]
@@ -471,6 +505,7 @@ Henk Tijms
 2012
 
 ** [[https://probabilitybook.net][Introduction to Probability]]
+
 Joseph K. Blitzstein, Jessica Hwang
 
 [[https://amzn.to/3pjo16N][1st Edition: 2014]], 2nd Edition: 2019
