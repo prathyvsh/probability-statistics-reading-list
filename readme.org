@@ -262,6 +262,14 @@ Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
 
 Might be a nice book to start reading after The Book of Why to get into some of the nitty gritty on inference from data. There seems also to be a more rigorous work on Causality by Pearl in [[https://amzn.to/3CTFLux][Causality: Models, Reasoning, and Inference]]
 
+** [[https://amzn.to/3dbBGar][Discrete Probability]]
+
+Hugh Gordon
+
+2012
+
+A book explaining discrete probability in an accessible language.
+
 * Empirical / Symbolic
 
 These are roughly the works with a Bayesian / Data centric bent which focusses on a symbolic approach. The more rigorous works in studies can also be seen in this section as visual ideas haven’t matured to capture the rigorous nature of mathematical machinery employed to make sense of the ideas in this field.
@@ -417,6 +425,20 @@ Morris DeGroot, Mark Schervish
 
 ** [[https://web.stanford.edu/~hastie/CASI/][Computer Age Statistical Inference]]
 
+** [[https://amzn.to/31oVpAI][Understanding Probability]]
+
+Henk Tijms
+
+2012
+
+** [[https://probabilitybook.net][Introduction to Probability]]
+
+Joseph K. Blitzstein, Jessica Hwang
+
+[[https://amzn.to/3pjo16N][1st Edition: 2014]], 2nd Edition: 2019
+
+Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
+
 * Empirical / Visual
 
 These are roughly the works with a Bayesian / Data centric bent which focusses on a visual approach.
@@ -503,40 +525,6 @@ History of the subject with more of an academic bent. A general reader might fin
 
 https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
 
-* To check out:
-
-** [[https://amzn.to/31lXjlA][An Introduction to Probability Theory and Its Applications]]
-
-William Feller
-
-** [[https://amzn.to/3IdxLIs][Data Analysis Using Regression and Multilevel/Hierarchical Analysis]]
-
-Andrew Gelman, Jennifer Hill
-
-2006
-
-** [[https://amzn.to/3dbBGar][Discrete Probability]]
-
-Hugh Gordon
-
-2012
-
-A book explaining discrete probability in an accessible language.
-
-** [[https://amzn.to/31oVpAI][Understanding Probability]]
-
-Henk Tijms
-
-2012
-
-** [[https://probabilitybook.net][Introduction to Probability]]
-
-Joseph K. Blitzstein, Jessica Hwang
-
-[[https://amzn.to/3pjo16N][1st Edition: 2014]], 2nd Edition: 2019
-
-Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
-
 ** Rigorous works
 
 ** [[https://amzn.to/3Ekhsay][Introduction to Probability Theory]]
@@ -580,6 +568,9 @@ Leonard J. Savage
 ** [[https://amzn.to/3EpJ7qF][Probability Theory and Stochastic Processes With Applications]]
 Oliver Knill
 
+** [[https://amzn.to/31lXjlA][An Introduction to Probability Theory and Its Applications]]
+William Feller
+
 ** [[https://amzn.to/3ddOXPL][Probability Theory: A Comprehensive Course]]
 Achim Klenke
 
@@ -589,6 +580,12 @@ Recommended as a reference book on probability
 Geoffrey R. Grimmett, David R. Stirzaker
 
 Considered a standard reference to the subject
+
+** [[https://amzn.to/3IdxLIs][Data Analysis Using Regression and Multilevel/Hierarchical Analysis]]
+
+Andrew Gelman, Jennifer Hill
+
+2006
 
 * Additional Resources
 
