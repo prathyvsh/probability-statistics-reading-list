@@ -265,20 +265,38 @@ Bruno de Finetti
 
 A Bayesian approach on probability as accounting for consequences of decisions made.
 
+** [[https://amzn.to/3G4KwmM][Statistical Rethinking]]
+Subtitle: A Bayesian course with examples in R and STAN
 
-** [[https://amzn.to/3G4KwmM][Statistical Rethinking: With examples in R and STAN]]
+Richard McElreath
+
+2020
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3G4KwmM"><img width="300px" src="./img/statistical-rethinking.jpg" alt="Cover of Statistical Rethinking" /></a>
+#+END_HTML
+
+A computational approach to Bayesian statistics. Not theoretically demanding as Gelman’s [[#bayesian-data-analysis][Bayesian Data Analysis]], and helps a mathematical novice to see their way around the computational processes underpinning Bayesian statistics.
+
+** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
 
 ** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
 
 ** [[https://www.openintro.org/book/os/][OpenIntro Statistics]]
 
-** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
+** [[https://www.statlearning.com/][An Introduction to Statistical Learning: With Applications in R]]
 
-** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
+Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 
-** [[https://amzn.to/2ZNwbeZ][An Introduction to Statistical Learning: With Applications in R]]
+2013
+
+#+BEGIN_HTML
+<a href="https://www.statlearning.com/"><img width="300px" src="./img/an-introduction-to-statistical-learning.jpg" alt="Cover of An Introduction to Staistical Learning" /></a>
+#+END_HTML
 
 Less background required than Elements of Statistical Learning
+
+** [[http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf][Elements of Statistical Learning]]
 
 ** [[https://amzn.to/3dcA8ge][Statistics]]
 David Freedman, Robert Pisani, Roger Purves
