@@ -339,21 +339,31 @@ A computational approach to Bayesian statistics. Not theoretically demanding as 
 
 ** [[https://greenteapress.com/wp/think-stats-2e/][Think Stats]]
 
+Allen B. Downey
+
+2011
+
 #+BEGIN_HTML
 <a href="https://greenteapress.com/wp/think-stats-2e/"><img width="300px" src="./img/think-stats.jpg" alt="Cover of Think Stats" /></a>
 #+END_HTML
 
 A book that teaches statistics by programming through Python
 
-
 ** [[http://www.stat.columbia.edu/~gelman/book/][Bayesian Data Analysis]]
+
+Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin
+
+First Edition: 1995, Second Edition: 2003, Third Edition: 2013
 
 #+BEGIN_HTML
 <a href="http://www.stat.columbia.edu/~gelman/book/"><img width="300px" src="./img/bayesian-data-analysis.png" alt="Cover of Bayesian Data Analysis" /></a>
 #+END_HTML
 
-
 ** [[https://www.openintro.org/book/os/][OpenIntro Statistics]]
+
+David Diez, Mike Çetinkaya-Rundel, Christopher Barr
+
+2019
 
 #+BEGIN_HTML
 <a href="https://www.openintro.org/book/os/"><img width="300px" src="./img/open-intro-statistics.jpg" alt="Cover of Open Intro Statistics" /></a>
