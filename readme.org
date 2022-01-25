@@ -707,6 +707,9 @@ Cosma Rohilla Chalizi
 
 * Sampled but not included / need another pass
 
+** [[https://web.math.princeton.edu/~nelson/books/rept.pdf][Radically Elementary Probability Theory]]
+Edward Nelson
+
 ** [[https://amzn.to/3luibyC][Mastering Metrics]]
 
 The book has an econometric viewpoint towards how to infer cause and effect using statistics.
