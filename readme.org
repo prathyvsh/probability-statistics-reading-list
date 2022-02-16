@@ -705,6 +705,11 @@ If you want to have an Information Theory bend
 ** [[http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/][Advanced Data Analysis from an Elementary Point of View]]
 Cosma Rohilla Chalizi
 
+** [[https://www.softcover.io/downloads/bf34ea25/math_for_finance][Mathematical Preparation for Finance]]
+Kaisa Taipale
+
+An idiosyncratic tour through ideas in probability, calculus, linear algebra, and statistics
+
 * Sampled but not included / need another pass
 
 ** [[https://web.math.princeton.edu/~nelson/books/rept.pdf][Radically Elementary Probability Theory]]
