@@ -83,6 +83,7 @@ TODO: After listing this out, I have felt that may be a better categorization wo
 | [[#taming-of-chance][Taming of Chance]]         |
 | [[#the-empire-of-chance][The Empire of Chance]] |
 | [[#the-rise-of-statistical-thinking-1820-1900][The Rise of Statistical Thinking - 1820 – 1900]] |
+| [[#chance-logic-and-intuition]] |
 
 
 | Additional reads |
@@ -603,6 +604,14 @@ August 18, 2020
 #+END_HTML
 
 History of the subject with more of an academic bent. A general reader might find Ian Hacking’s work more approachable.
+
+** [[][Chance, Logic, And Intution: An Introduction to the Counter-Intuitive Logic of Chance]]
+Steven Tjims
+
+18 February 2021
+256 pages
+
+TODO: Add link and brief
 
 * Videos
 
