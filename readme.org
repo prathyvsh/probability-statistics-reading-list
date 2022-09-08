@@ -741,3 +741,6 @@ Robert L. Waldrop
 
 ** [[https://amzn.to/3dlEKAW][Introduction to Statistics]]
 Jim Frost
+
+** [[https://michael-franke.github.io/intro-data-analysis/][An Introduction to Data Analysis]]
+Michael Franke
