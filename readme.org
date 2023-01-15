@@ -600,10 +600,15 @@ August 18, 2020
 360 pages
 
 #+BEGIN_HTML
-<a href="https://amzn.to/30TNewk"><img width="300px" src="./img/the-rise-of-statistical-thinking.jpg" alt="Cover of The Rise of Statistical Thinknig" /></a>
+<a href="https://amzn.to/30TNewk"><img width="300px" src="./img/the-rise-of-statistical-thinking.jpg" alt="Cover of The Rise of Statistical Thinking" /></a>
 #+END_HTML
 
 History of the subject with more of an academic bent. A general reader might find Ian Hacking’s work more approachable.
+
+** [[https://archive.org/details/ofmathemahistory00todhrich][A history of mathematical theory of probability: from the time of Pascal to Laplace]]
+I. Todhunter
+
+1865
 
 ** [[][Chance, Logic, And Intution: An Introduction to the Counter-Intuitive Logic of Chance]]
 Steven Tjims
