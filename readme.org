@@ -503,6 +503,12 @@ Joseph K. Blitzstein, Jessica Hwang
 
 A highly recommended book to learn probability from. Comes with an accompanying MOOC: https://projects.iq.harvard.edu/stat110/home
 
+** [[https://www.benkuhn.net/outliers/][Searching for outliers]]
+
+A nice introductory post on why heavy tails matters in the context of consistent productivity. Has a brief introduction on how log normal distribution comes into being and a neat outline of how preferential attachment leads to heavy tails and why this matters when assessing different facets of life like efficacy of medical interventions.
+
+An interesting footnote was that light-tailed distributions can have heavy-tailed distributions attached with it with the example of Hussain Bolt’s running time which is light-tailed when compared to other runners in the world, but becomes heavy-tailed when judging it on ranking performances.
+
 * Empirical / Visual
 
 These are roughly the works with a Bayesian / Data centric bent which focusses on a visual approach.
